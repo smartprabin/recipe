@@ -1,183 +1,182 @@
 [
-   {
-      "id":"1",
-      "name":"Bhaktapur Durbar Square",
-      "description":"A UNESCO World Heritage Site filled with temples, palaces, and statues that reflect the glory of ancient Newar architecture.",
-      "history":"The square served as the royal palace complex of the Malla kings. Most structures date back to the 12th–18th centuries.",
-      "importance":"Known for its exquisite wood carvings and ancient Newari culture.",
-      "rating":4.7,
-      "images":[
-         "https://unsplash.com/photos/a-very-tall-tower-with-a-clock-on-its-side-SMB-geD3ICo",
-         "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500",
-         "https://images.unsplash.com/photo-1707566288616-e761fca312e6?w=500"
-      ],
-      "location":{
-         "lat":27.6727,
-         "lng":85.4289
-      },
-      "category":"Historical",
-      "tags":[
-         "Architecture",
-         "Cultural",
-         "UNESCO",
-         "Palace",
-         "Temple"
-      ],
-      "openingHours":"Mon-Sun: 7:00 AM - 7:00 PM",
-      "contactInfo":"+977 1-6610200",
-      "isFamous":true
-   },
-   {
-      "id":"2",
-      "name":"Nyatapola Temple",
-      "description":"The tallest pagoda-style temple in Nepal, standing majestically in Taumadhi Square.",
-      "history":"Built in 1702 by King Bhupatindra Malla, the temple is dedicated to the Siddhi Lakshmi goddess.",
-      "importance":"A symbol of strength and stability, featuring five-tiered roofs and massive guardian statues.",
-      "rating":4.9,
-      "images":[
-         "https://images.unsplash.com/photo-1740908401883-5b54b505ee0e?w=500",
-         "https://images.unsplash.com/photo-1561576019-4e870814d336?w=500"
-      ],
-      "location":{
-         "lat":27.6724,
-         "lng":85.4298
-      },
-      "category":"Religious",
-      "tags":[
-         "Temple",
-         "Architecture",
-         "UNESCO",
-         "Hindu"
-      ],
-      "openingHours":"Open 24 hours",
-      "contactInfo":"N/A",
-      "isFamous":true
-   },
-   {
-      "id":"3",
-      "name":"55-Window Palace",
-      "description":"A palace adorned with fifty-five intricately carved wooden windows, part of the royal complex.",
-      "history":"Built during the reign of King Yaksha Malla in the 15th century and remodeled by Bhupatindra Malla.",
-      "importance":"A masterpiece of traditional woodwork and royal architecture.",
-      "rating":4.6,
-      "images":[
-         "https://images.unsplash.com/photo-1596964554182-ffb89b453e0a?w=500"
-      ],
-      "location":{
-         "lat":27.6729,
-         "lng":85.4286
-      },
-      "category":"Historical",
-      "tags":[
-         "Palace",
-         "Architecture",
-         "UNESCO"
-      ],
-      "openingHours":"Mon-Sun: 8:00 AM - 6:00 PM",
-      "contactInfo":"+977 1-6610200",
-      "isFamous":true
-   },
-   {
-      "id":"4",
-      "name":"Pottery Square",
-      "description":"An open-air area where locals shape clay into pots, vases, and traditional household items.",
-      "history":"Pottery has been a traditional craft of Bhaktapur for centuries, passed down through generations.",
-      "importance":"One of the few places in Nepal where you can still witness and participate in traditional pottery-making.",
-      "rating":4.5,
-      "images":[
-         "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500",
-         "https://images.unsplash.com/photo-1648031208301-aa38ab57f002?w=500",
-         "https://images.unsplash.com/photo-1543242386-7bb077afcbde?w=500"
-      ],
-      "location":{
-         "lat":27.6723,
-         "lng":85.4272
-      },
-      "category":"Cultural",
-      "tags":[
-         "Craft",
-         "Traditional",
-         "Local",
-         "Culture"
-      ],
-      "openingHours":"Mon-Sun: 9:00 AM - 6:00 PM",
-      "contactInfo":"N/A",
-      "isFamous":true
-   },
-   {
-      "id":"5",
-      "name":"Dattatreya Square",
-      "description":"A historic square famous for its temples, wood carvings, and museums.",
-      "history":"Named after the Dattatreya Temple, said to have been built using timber from a single tree in 1427.",
-      "importance":"The square includes the Woodcarving Museum and Brass & Bronze Museum, showcasing Bhaktapur’s artistry.",
-      "rating":4.6,
-      "images":[
-         "https://images.unsplash.com/photo-1730758504028-28e4f4e71b62?w=500",
-         "https://images.unsplash.com/photo-1663060010422-a4b846aa1037?w=500"
-      ],
-      "location":{
-         "lat":27.678,
-         "lng":85.4296
-      },
-      "category":"Cultural",
-      "tags":[
-         "Temple",
-         "Museum",
-         "Traditional",
-         "UNESCO"
-      ],
-      "openingHours":"Mon-Sun: 10:00 AM - 5:00 PM",
-      "contactInfo":"+977 1-6610211",
-      "isFamous":true
-   },
-   {
-      "id":"6",
-      "name":"Taumadhi Square",
-      "description":"A bustling square home to the iconic Nyatapola and Bhairabnath Temples.",
-      "history":"Flourished during the Malla period and became a vibrant center for festivals and rituals.",
-      "importance":"Hosts major events like Bisket Jatra and showcases vibrant local culture.",
-      "rating":4.7,
-      "images":[
-         "https://images.unsplash.com/photo-1613553567410-223fe42f59cb?w=500"
-      ],
-      "location":{
-         "lat":27.6725,
-         "lng":85.4301
-      },
-      "category":"Cultural",
-      "tags":[
-         "Festival",
-         "Temple",
-         "Square",
-         "Cultural"
-      ],
-      "openingHours":"Open 24 hours",
-      "contactInfo":"N/A",
-      "isFamous":true
-   },
-   {
-      "id":"7",
-      "name":"Siddha Pokhari",
-      "description":"A large rectangular pond built during the Malla period, known for its tranquil atmosphere.",
-      "history":"Constructed in the 15th century by King Yaksha Malla for religious and public purposes.",
-      "importance":"Popular for reflection photography and morning walks, especially during festivals like Indra Jatra.",
-      "rating":4.4,
-      "images":[
-         "https://images.unsplash.com/photo-1654367818571-b0fc5888882b?w=500"
-      ],
-      "location":{
-         "lat":27.6748,
-         "lng":85.4233
-      },
-      "category":"Natural",
-      "tags":[
-         "Pond",
-         "Scenic",
-         "Historical",
-         "Relaxing"
-      ],
-      "openingHours":"Open 24 hours",
-      "contactInfo":"N/A",
-      "isFamous":true
-   }
+  {
+    "id": "1",
+    "name": "Bhaktapur Durbar Square",
+    "description": "A UNESCO World Heritage Site filled with temples, palaces, and statues that reflect the glory of ancient Newar architecture.",
+    "history": "The square served as the royal palace complex of the Malla kings. Most structures date back to the 12th–18th centuries.",
+    "importance": "Known for its exquisite wood carvings and ancient Newari culture.",
+    "rating": 4.7,
+    "images": [
+      "https://unsplash.com/photos/a-very-tall-tower-with-a-clock-on-its-side-SMB-geD3ICo",
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500",
+       "https://images.unsplash.com/photo-1707566288616-e761fca312e6?w=500"
+    ],
+    "location": {
+      "lat": 27.6727,
+      "lng": 85.4289
+    },
+    "category": "Historical",
+    "tags": [
+      "Architecture",
+      "Cultural",
+      "UNESCO",
+      "Palace",
+      "Temple"
+    ],
+    "openingHours": "Mon-Sun: 7:00 AM - 7:00 PM",
+    "contactInfo": "+977 1-6610200",
+    "isFamous": true
+  },
+  {
+    "id": "2",
+    "name": "Nyatapola Temple",
+    "description": "The tallest pagoda-style temple in Nepal, standing majestically in Taumadhi Square.",
+    "history": "Built in 1702 by King Bhupatindra Malla, the temple is dedicated to the Siddhi Lakshmi goddess.",
+    "importance": "A symbol of strength and stability, featuring five-tiered roofs and massive guardian statues.",
+    "rating": 4.9,
+    "images": [
+      "https://images.unsplash.com/photo-1740908401883-5b54b505ee0e?w=500",
+      "https://images.unsplash.com/photo-1561576019-4e870814d336?w=500"
+    ],
+    "location": {
+      "lat": 27.6724,
+      "lng": 85.4298
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Architecture",
+      "UNESCO",
+      "Hindu"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "3",
+    "name": "55-Window Palace",
+    "description": "A palace adorned with fifty-five intricately carved wooden windows, part of the royal complex.",
+    "history": "Built during the reign of King Yaksha Malla in the 15th century and remodeled by Bhupatindra Malla.",
+    "importance": "A masterpiece of traditional woodwork and royal architecture.",
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1596964554182-ffb89b453e0a?w=500"
+    ],
+    "location": {
+      "lat": 27.6729,
+      "lng": 85.4286
+    },
+    "category": "Historical",
+    "tags": [
+      "Palace",
+      "Architecture",
+      "UNESCO"
+    ],
+    "openingHours": "Mon-Sun: 8:00 AM - 6:00 PM",
+    "contactInfo": "+977 1-6610200",
+    "isFamous": true
+  },
+  {
+    "id": "4",
+    "name": "Pottery Square",
+    "description": "An open-air area where locals shape clay into pots, vases, and traditional household items.",
+    "history": "Pottery has been a traditional craft of Bhaktapur for centuries, passed down through generations.",
+    "importance": "One of the few places in Nepal where you can still witness and participate in traditional pottery-making.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500",
+      "https://images.unsplash.com/photo-1648031208301-aa38ab57f002?w=500"
+    ],
+    "location": {
+      "lat": 27.6723,
+      "lng": 85.4272
+    },
+    "category": "Cultural",
+    "tags": [
+      "Craft",
+      "Traditional",
+      "Local",
+      "Culture"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "5",
+    "name": "Dattatreya Square",
+    "description": "A historic square famous for its temples, wood carvings, and museums.",
+    "history": "Named after the Dattatreya Temple, said to have been built using timber from a single tree in 1427.",
+    "importance": "The square includes the Woodcarving Museum and Brass & Bronze Museum, showcasing Bhaktapur’s artistry.",
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1730758504028-28e4f4e71b62?w=500",
+        "https://images.unsplash.com/photo-1663060010422-a4b846aa1037?w=500"
+    ],
+    "location": {
+      "lat": 27.6780,
+      "lng": 85.4296
+    },
+    "category": "Cultural",
+    "tags": [
+      "Temple",
+      "Museum",
+      "Traditional",
+      "UNESCO"
+    ],
+    "openingHours": "Mon-Sun: 10:00 AM - 5:00 PM",
+    "contactInfo": "+977 1-6610211",
+    "isFamous": true
+  },
+  {
+    "id": "6",
+    "name": "Taumadhi Square",
+    "description": "A bustling square home to the iconic Nyatapola and Bhairabnath Temples.",
+    "history": "Flourished during the Malla period and became a vibrant center for festivals and rituals.",
+    "importance": "Hosts major events like Bisket Jatra and showcases vibrant local culture.",
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1613553567410-223fe42f59cb?w=500"
+    ],
+    "location": {
+      "lat": 27.6725,
+      "lng": 85.4301
+    },
+    "category": "Cultural",
+    "tags": [
+      "Festival",
+      "Temple",
+      "Square",
+      "Cultural"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "7",
+    "name": "Siddha Pokhari",
+    "description": "A large rectangular pond built during the Malla period, known for its tranquil atmosphere.",
+    "history": "Constructed in the 15th century by King Yaksha Malla for religious and public purposes.",
+    "importance": "Popular for reflection photography and morning walks, especially during festivals like Indra Jatra.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1654367818571-b0fc5888882b?w=500"
+    ],
+    "location": {
+      "lat": 27.6748,
+      "lng": 85.4233
+    },
+    "category": "Natural",
+    "tags": [
+      "Pond",
+      "Scenic",
+      "Historical",
+      "Relaxing"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  }
 ]
