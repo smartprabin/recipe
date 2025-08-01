@@ -7,12 +7,22 @@
     "importance": "Known for its exquisite wood carvings and ancient Newari culture.",
     "rating": 4.7,
     "images": [
-      "https://media.gettyimages.com/id/613716082/photo/stars-from-durbar-square-before-earthquake-bhaktapur-nepal.jpg?s=1024x1024&w=gi&k=20&c=fxkCj9-FwCSkcnlrDvG-Vw1L5JQKXCZy6CVUnA1oK_Y=",
-      "https://media.gettyimages.com/id/549499235/photo/historic-city-of-bhaktapur-nepal.jpg?s=1024x1024&w=gi&k=20&c=7bwGr4o-YBlg2IiiYoO4CEKTvY-Lk7_8rgrOo7-EIXE="
+      "https://unsplash.com/photos/a-very-tall-tower-with-a-clock-on-its-side-SMB-geD3ICo",
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500",
+       "https://images.unsplash.com/photo-1707566288616-e761fca312e6?w=500"
     ],
-    "location": { "lat": 27.6727, "lng": 85.4289 },
+    "location": {
+      "lat": 27.6727,
+      "lng": 85.4289
+    },
     "category": "Historical",
-    "tags": ["Architecture", "Cultural", "UNESCO", "Palace", "Temple"],
+    "tags": [
+      "Architecture",
+      "Cultural",
+      "UNESCO",
+      "Palace",
+      "Temple"
+    ],
     "openingHours": "Mon-Sun: 7:00 AM - 7:00 PM",
     "contactInfo": "+977 1-6610200",
     "isFamous": true
@@ -25,11 +35,20 @@
     "importance": "A symbol of strength and stability, featuring five-tiered roofs and massive guardian statues.",
     "rating": 4.9,
     "images": [
-      "https://images.unsplash.com/photo-1585487000175-763c8bd57f98?w=500"
+      "https://images.unsplash.com/photo-1740908401883-5b54b505ee0e?w=500",
+      "https://images.unsplash.com/photo-1561576019-4e870814d336?w=500"
     ],
-    "location": { "lat": 27.6724, "lng": 85.4298 },
+    "location": {
+      "lat": 27.6724,
+      "lng": 85.4298
+    },
     "category": "Religious",
-    "tags": ["Temple", "Architecture", "UNESCO", "Hindu"],
+    "tags": [
+      "Temple",
+      "Architecture",
+      "UNESCO",
+      "Hindu"
+    ],
     "openingHours": "Open 24 hours",
     "contactInfo": "N/A",
     "isFamous": true
@@ -44,9 +63,16 @@
     "images": [
       "https://images.unsplash.com/photo-1596964554182-ffb89b453e0a?w=500"
     ],
-    "location": { "lat": 27.6729, "lng": 85.4286 },
+    "location": {
+      "lat": 27.6729,
+      "lng": 85.4286
+    },
     "category": "Historical",
-    "tags": ["Palace", "Architecture", "UNESCO"],
+    "tags": [
+      "Palace",
+      "Architecture",
+      "UNESCO"
+    ],
     "openingHours": "Mon-Sun: 8:00 AM - 6:00 PM",
     "contactInfo": "+977 1-6610200",
     "isFamous": true
@@ -59,11 +85,21 @@
     "importance": "One of the few places in Nepal where you can still witness and participate in traditional pottery-making.",
     "rating": 4.5,
     "images": [
-      "https://images.unsplash.com/photo-1599351434715-c97cfe4dcffd?w=500"
+      "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500",
+      "https://images.unsplash.com/photo-1648031208301-aa38ab57f002?w=500",
+          "https://images.unsplash.com/photo-1543242386-7bb077afcbde?w=500",
     ],
-    "location": { "lat": 27.6723, "lng": 85.4272 },
+    "location": {
+      "lat": 27.6723,
+      "lng": 85.4272
+    },
     "category": "Cultural",
-    "tags": ["Craft", "Traditional", "Local", "Culture"],
+    "tags": [
+      "Craft",
+      "Traditional",
+      "Local",
+      "Culture"
+    ],
     "openingHours": "Mon-Sun: 9:00 AM - 6:00 PM",
     "contactInfo": "N/A",
     "isFamous": true
@@ -76,11 +112,20 @@
     "importance": "The square includes the Woodcarving Museum and Brass & Bronze Museum, showcasing Bhaktapur’s artistry.",
     "rating": 4.6,
     "images": [
-      "https://images.unsplash.com/photo-1577701843422-7c2e2f89dbfd?w=500"
+      "https://images.unsplash.com/photo-1730758504028-28e4f4e71b62?w=500",
+        "https://images.unsplash.com/photo-1663060010422-a4b846aa1037?w=500"
     ],
-    "location": { "lat": 27.6780, "lng": 85.4296 },
+    "location": {
+      "lat": 27.6780,
+      "lng": 85.4296
+    },
     "category": "Cultural",
-    "tags": ["Temple", "Museum", "Traditional", "UNESCO"],
+    "tags": [
+      "Temple",
+      "Museum",
+      "Traditional",
+      "UNESCO"
+    ],
     "openingHours": "Mon-Sun: 10:00 AM - 5:00 PM",
     "contactInfo": "+977 1-6610211",
     "isFamous": true
@@ -95,9 +140,17 @@
     "images": [
       "https://images.unsplash.com/photo-1613553567410-223fe42f59cb?w=500"
     ],
-    "location": { "lat": 27.6725, "lng": 85.4301 },
+    "location": {
+      "lat": 27.6725,
+      "lng": 85.4301
+    },
     "category": "Cultural",
-    "tags": ["Festival", "Temple", "Square", "Cultural"],
+    "tags": [
+      "Festival",
+      "Temple",
+      "Square",
+      "Cultural"
+    ],
     "openingHours": "Open 24 hours",
     "contactInfo": "N/A",
     "isFamous": true
@@ -112,9 +165,17 @@
     "images": [
       "https://images.unsplash.com/photo-1654367818571-b0fc5888882b?w=500"
     ],
-    "location": { "lat": 27.6748, "lng": 85.4233 },
+    "location": {
+      "lat": 27.6748,
+      "lng": 85.4233
+    },
     "category": "Natural",
-    "tags": ["Pond", "Scenic", "Historical", "Relaxing"],
+    "tags": [
+      "Pond",
+      "Scenic",
+      "Historical",
+      "Relaxing"
+    ],
     "openingHours": "Open 24 hours",
     "contactInfo": "N/A",
     "isFamous": true
