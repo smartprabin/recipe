@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "58",
+    "name": "Changu Narayan Temple",
+    "description": "An ancient Hindu temple dedicated to Lord Vishnu, perched atop a hill with intricate carvings.",
+    "history": "Built in the 4th century, it is one of the oldest temples in Nepal and a UNESCO World Heritage Site.",
+    "importance": "Renowned for its historical inscriptions and Newari craftsmanship, offering panoramic valley views.",
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7162,
+      "lng": 85.4283
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "59",
+    "name": "Taudaha Lake",
+    "description": "A serene freshwater lake surrounded by hills, known for its birdwatching and mythological significance.",
+    "history": "Linked to the legend of Manjushri draining the Kathmandu Valley lake, it is home to Nagas (snake deities).",
+    "importance": "A peaceful spot for relaxation and birdwatching, especially during migratory seasons.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1751862926600-f38879e335ab?w=500"
+    ],
+    "location": {
+      "lat": 27.6500,
+      "lng": 85.2833
+    },
+    "category": "Natural",
+    "tags": [
+      "Lake",
+      "Birdwatching",
+      "Mythology",
+      "Scenic"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "60",
+    "name": "Seto Gumba (White Monastery)",
+    "description": "A Tibetan Buddhist monastery with white-washed walls and stunning valley views.",
+    "history": "Founded in the 20th century, it is a modern center for Buddhist meditation and study.",
+    "importance": "Known for its tranquil setting and vibrant murals, ideal for meditation and sunrise views.",
+    "rating": 4.5,
+    "images": [
+      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+    ],
+    "location": {
+      "lat": 27.7333,
+      "lng": 85.3667
+    },
+    "category": "Religious",
+    "tags": [
+      "Monastery",
+      "Buddhist",
+      "Meditation",
+      "Scenic"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "+977 1-4372460",
+    "isFamous": true
+  },
+  {
+    "id": "61",
+    "name": "Kamal Pokhari",
+    "description": "A historic pond in Kathmandu surrounded by trees, offering a quiet retreat for locals.",
+    "history": "Dating back to the Malla period, it was a contemplative spot for kings.",
+    "importance": "A serene urban oasis for walking and relaxation amidst the city’s hustle.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.7100,
+      "lng": 85.3250
+    },
+    "category": "Natural",
+    "tags": [
+      "Pond",
+      "Historical",
+      "Relaxation",
+      "Urban"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "62",
+    "name": "Thimi Durbar Square",
+    "description": "A historic square in Bhaktapur with traditional Newari architecture and temples.",
+    "history": "Established during the Malla period, it was a secondary royal center in Bhaktapur.",
+    "importance": "A lesser-known cultural hub showcasing Newari heritage and local festivals.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6800,
+      "lng": 85.3833
+    },
+    "category": "Historical",
+    "tags": [
+      "Square",
+      "Newari",
+      "Temples",
+      "Cultural"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "63",
+    "name": "Ashok Binayak Temple",
+    "description": "A small but revered Ganesha shrine at Maru Tole, central to Kathmandu’s religious life.",
+    "history": "Built in the 17th century, it is one of the valley’s most visited Ganesha temples.",
+    "importance": "A key site for locals seeking blessings for success and new ventures.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.7020,
+      "lng": 85.3085
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Ganesha",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 5:00 AM - 7:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "64",
+    "name": "Lakuri Bhanjyang",
+    "description": "A scenic hill station southeast of Kathmandu, ideal for short hikes and valley views.",
+    "history": "A historic retreat for locals, developed as a tourist spot in the 20th century.",
+    "importance": "A peaceful escape with hiking trails and stunning Himalayan vistas on clear days.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.6333,
+      "lng": 85.4167
+    },
+    "category": "Natural",
+    "tags": [
+      "Hill Station",
+      "Hiking",
+      "Scenic",
+      "Viewpoint"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "65",
+    "name": "National Museum of Nepal",
+    "description": "A museum in Chhauni showcasing Nepal’s art, history, and Buddhist artifacts.",
+    "history": "Established in 1928 as Chhauni Silkhana, renamed in 1967 as Rashtriya Sangrahalaya.",
+    "importance": "A treasure trove of Nepali culture, with sections on art, weapons, and Buddhism.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7050,
+      "lng": 85.2900
+    },
+    "category": "Cultural",
+    "tags": [
+      "Museum",
+      "Art",
+      "History",
+      "Buddhist"
+    ],
+    "openingHours": "Mon-Sun: 10:00 AM - 4:00 PM",
+    "contactInfo": "+977 1-4271506",
+    "isFamous": true
+  },
+  {
+    "id": "66",
+    "name": "Kopan Monastery",
+    "description": "A Tibetan Buddhist monastery on a hilltop, offering meditation courses and valley views.",
+    "history": "Founded in 1971 by Lama Thubten Yeshe, it is a center for Buddhist learning.",
+    "importance": "A serene retreat for spiritual seekers and tourists, with a vibrant gift shop and café.",
+    "rating": 4.6,
+    "images": [
+      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+    ],
+    "location": {
+      "lat": 27.7420,
+      "lng": 85.3660
+    },
+    "category": "Religious",
+    "tags": [
+      "Monastery",
+      "Buddhist",
+      "Meditation",
+      "Scenic"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "+977 1-4821268",
+    "isFamous": true
+  },
+  {
+    "id": "67",
+    "name": "Akash Bhairav Temple",
+    "description": "A Hindu temple in Kathmandu dedicated to Bhairav, the ‘Lord of the Sky’.",
+    "history": "Built in the 17th century, it is a significant site for local Hindu devotees.",
+    "importance": "Believed to ensure strength and safety for Nepal, it attracts many worshippers.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.7065,
+      "lng": 85.3095
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Bhairav",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "68",
+    "name": "Annapurna Temple (Asan Tole)",
+    "description": "A small temple in Asan Tole dedicated to Goddess Annapurna, symbolizing abundance.",
+    "history": "Constructed in the 17th century, it is central to the bustling Asan market.",
+    "importance": "A cultural and religious anchor in Kathmandu’s busiest market square.",
+    "rating": 4.3,
+    "images": [
+      "https://www.istockphoto.com/photo/nepali-street-seller-selling-flowers-and-vegetables-in-patan-nepal-gm1153510438-313344474"
+    ],
+    "location": {
+      "lat": 27.7070,
+      "lng": 85.3100
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Market",
+      "Cultural"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 7:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "69",
+    "name": "Krishna Temple (Asan Tole)",
+    "description": "A beautifully carved temple in Asan Tole dedicated to Lord Krishna.",
+    "history": "Built in the 18th century, known for its exotic wood carvings and unique positioning.",
+    "importance": "A cultural gem amidst the market, reflecting Newari craftsmanship.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.7070,
+      "lng": 85.3100
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Newari",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "70",
+    "name": "Itum Bahal",
+    "description": "One of the oldest Buddhist courtyards in Kathmandu, with historic shrines and statues.",
+    "history": "Dating back to the 11th century, it is a significant Newari Buddhist site.",
+    "importance": "A hidden cultural treasure showcasing Kathmandu’s ancient monastic heritage.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7080,
+      "lng": 85.3060
+    },
+    "category": "Cultural",
+    "tags": [
+      "Courtyard",
+      "Buddhist",
+      "Newari",
+      "Historical"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "71",
+    "name": "Champadevi Hill",
+    "description": "A popular hiking destination south of Kathmandu with a temple and valley views.",
+    "history": "A historic pilgrimage site, revered for its small Buddhist shrine at the summit.",
+    "importance": "A favorite for trekkers seeking a challenging day hike and scenic vistas.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.6333,
+      "lng": 85.2667
+    },
+    "category": "Natural",
+    "tags": [
+      "Hiking",
+      "Temple",
+      "Scenic",
+      "Viewpoint"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "72",
+    "name": "Jagannath Temple",
+    "description": "A 16th-century temple in Kathmandu Durbar Square, famous for its erotic wooden carvings.",
+    "history": "Built in 1563, it is a notable example of Newari temple architecture.",
+    "importance": "A cultural landmark attracting visitors for its unique carvings and historical significance.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7040,
+      "lng": 85.3080
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "73",
+    "name": "Kakani Hill",
+    "description": "A scenic hill station north of Kathmandu, known for hiking and Himalayan views.",
+    "history": "A historic retreat for locals, developed as a tourist destination in the 20th century.",
+    "importance": "A popular spot for day hikes and enjoying sunrise over the Himalayas.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.8167,
+      "lng": 85.2500
+    },
+    "category": "Natural",
+    "tags": [
+      "Hill Station",
+      "Hiking",
+      "Scenic",
+      "Viewpoint"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "74",
+    "name": "Amideva Buddha Park",
+    "description": "A park near Swayambhunath with three large golden Buddha statues, including Nepal’s largest.",
+    "history": "Established in the early 2000s, it is a modern Buddhist pilgrimage site.",
+    "importance": "A serene site for meditation and photography, complementing Swayambhunath’s spiritual aura.",
+    "rating": 4.4,
+    "images": [
+      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+    ],
+    "location": {
+      "lat": 27.7110,
+      "lng": 85.2833
+    },
+    "category": "Religious",
+    "tags": [
+      "Park",
+      "Buddhist",
+      "Statues",
+      "Meditation"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "75",
+    "name": "Budhanilkantha Temple",
+    "description": "An open-air Hindu temple with a large reclining Vishnu statue in a pool.",
+    "history": "Dating to the 7th century, it is a significant site for Vishnu devotees.",
+    "importance": "A major pilgrimage site, especially during Haribodhini Ekadashi festival.",
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.7783,
+      "lng": 85.3667
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Vishnu",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 5:00 AM - 7:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "76",
+    "name": "Thangka Painting School",
+    "description": "A cultural center in Kathmandu offering classes in traditional Buddhist Thangka painting.",
+    "history": "Established in the 20th century to preserve the art of Thangka painting.",
+    "importance": "A hands-on cultural experience for learning Nepal’s religious art traditions.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.7150,
+      "lng": 85.3100
+    },
+    "category": "Cultural",
+    "tags": [
+      "Art",
+      "Buddhist",
+      "Workshop",
+      "Cultural"
+    ],
+    "openingHours": "Mon-Sun: 10:00 AM - 5:00 PM",
+    "contactInfo": "+977 1-4412345",
+    "isFamous": true
+  },
+  {
+    "id": "77",
+    "name": "Chisapani Village",
+    "description": "A scenic village north of Kathmandu, a starting point for treks and rural exploration.",
+    "history": "A historic settlement along ancient trade routes, known for its Newari culture.",
+    "importance": "A gateway to Shivapuri National Park and a glimpse into rural Nepali life.",
+    "rating": 4.4,
+    "images": [
+      "https://www.istockphoto.com/photo/nepal-kathmandu-valley-panauti-newar-village-gm1280833040-379081443"
+    ],
+    "location": {
+      "lat": 27.8000,
+      "lng": 85.4167
+    },
+    "category": "Cultural",
+    "tags": [
+      "Village",
+      "Hiking",
+      "Newari",
+      "Scenic"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "78",
+    "name": "Namo Buddha",
+    "description": "A sacred Buddhist site with a stupa and monastery, linked to a legend of the Buddha’s sacrifice.",
+    "history": "A pilgrimage site since ancient times, with a modern monastery built in the 20th century.",
+    "importance": "A spiritual retreat offering meditation and stunning views of the valley.",
+    "rating": 4.6,
+    "images": [
+      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+    ],
+    "location": {
+      "lat": 27.5833,
+      "lng": 85.5833
+    },
+    "category": "Religious",
+    "tags": [
+      "Stupa",
+      "Buddhist",
+      "Pilgrimage",
+      "Scenic"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "+977 1-5570123",
+    "isFamous": true
+  },
+  {
+    "id": "79",
+    "name": "Taumadhi Square",
+    "description": "A vibrant square in Bhaktapur with the iconic Nyatapola Temple and local markets.",
+    "history": "Developed during the Malla period, it is a central hub of Bhaktapur’s cultural life.",
+    "importance": "A UNESCO World Heritage Site showcasing Newari architecture and festivals.",
+    "rating": 4.7,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6705,
+      "lng": 85.4290
+    },
+    "category": "Cultural",
+    "tags": [
+      "Square",
+      "Newari",
+      "UNESCO",
+      "Temple"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "80",
+    "name": "Ranikot Village",
+    "description": "A rural Newari village near Bhaktapur, known for its hiking trails and traditional lifestyle.",
+    "history": "A historic settlement, part of the valley’s ancient agricultural communities.",
+    "importance": "A peaceful retreat for experiencing rural Nepal and short day hikes.",
+    "rating": 4.3,
+    "images": [
+      "https://www.istockphoto.com/photo/nepal-kathmandu-valley-panauti-newar-village-gm1280833040-379081443"
+    ],
+    "location": {
+      "lat": 27.6833,
+      "lng": 85.4667
+    },
+    "category": "Cultural",
+    "tags": [
+      "Village",
+      "Hiking",
+      "Newari",
+      "Rural"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "81",
+    "name": "Siddhi Lakshmi Temple",
+    "description": "A tall Hindu temple in Bhaktapur dedicated to Goddess Siddhi Lakshmi.",
+    "history": "Built in 1702, it is a significant example of shikhara-style architecture.",
+    "importance": "A sacred site for devotees, known for its intricate design and cultural importance.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.6720,
+      "lng": 85.4280
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Architecture",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "82",
+    "name": "Tribhuvan Museum",
+    "description": "A museum in Hanuman Dhoka Palace displaying royal artifacts and history.",
+    "history": "Established in the 20th century to preserve Nepal’s royal heritage.",
+    "importance": "Offers insights into the Shah dynasty, including artifacts from the 2001 massacre.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7043,
+      "lng": 85.3075
+    },
+    "category": "Cultural",
+    "tags": [
+      "Museum",
+      "Royal",
+      "History",
+      "UNESCO"
+    ],
+    "openingHours": "Mon-Sun: 10:00 AM - 4:00 PM",
+    "contactInfo": "+977 1-4268969",
+    "isFamous": true
+  },
+  {
+    "id": "83",
+    "name": "Pharping Village",
+    "description": "A historic village south of Kathmandu, near Dakshinkali, with monasteries and caves.",
+    "history": "A sacred site for centuries, linked to Guru Padmasambhava’s meditation caves.",
+    "importance": "A spiritual and cultural destination for Buddhist pilgrims and trekkers.",
+    "rating": 4.4,
+    "images": [
+      "https://www.istockphoto.com/photo/nepal-kathmandu-valley-panauti-newar-village-gm1280833040-379081443"
+    ],
+    "location": {
+      "lat": 27.6167,
+      "lng": 85.2667
+    },
+    "category": "Cultural",
+    "tags": [
+      "Village",
+      "Buddhist",
+      "Caves",
+      "Pilgrimage"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "84",
+    "name": "Uma Maheshwor Temple",
+    "description": "A Hindu temple in Kirtipur dedicated to Shiva and Parvati, with Newari architecture.",
+    "history": "Built in the 17th century, it is a key religious site in Kirtipur.",
+    "importance": "A cultural and spiritual landmark for locals, known for its serene ambiance.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.6790,
+      "lng": 85.2740
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Newari",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "85",
+    "name": "Basantapur Square",
+    "description": "The southern part of Kathmandu Durbar Square, known for souvenir stalls and historic charm.",
+    "history": "Once home to royal elephants, it evolved into a bustling market area.",
+    "importance": "A vibrant cultural hub for tourists and locals, part of a UNESCO site.",
+    "rating": 4.5,
+    "images": [
+      "https://www.istockphoto.com/photo/kathmandu-nepal-april-17-2019-a-busy-afternoon-at-a-street-in-the-tourist-district-gm1153510438-313344474"
+    ],
+    "location": {
+      "lat": 27.7035,
+      "lng": 85.3070
+    },
+    "category": "Cultural",
+    "tags": [
+      "Square",
+      "Market",
+      "UNESCO",
+      "Historical"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "86",
+    "name": "Jamacho Gumba",
+    "description": "A Buddhist monastery in Shivapuri National Park, accessible via a scenic hike.",
+    "history": "Established in the 20th century, it is a spiritual retreat in a natural setting.",
+    "importance": "A serene destination for hikers and Buddhist practitioners seeking peace.",
+    "rating": 4.4,
+    "images": [
+      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+    ],
+    "location": {
+      "lat": 27.8167,
+      "lng": 85.3833
+    },
+    "category": "Religious",
+    "tags": [
+      "Monastery",
+      "Buddhist",
+      "Hiking",
+      "Scenic"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 5:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "87",
+    "name": "Tundikhel",
+    "description": "A historic parade ground in Kathmandu, now a popular picnic and viewpoint spot.",
+    "history": "Used by Gurkha soldiers in the 19th century, it was later converted for public use.",
+    "importance": "A central urban park for relaxation and community events.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.7050,
+      "lng": 85.3160
+    },
+    "category": "Cultural",
+    "tags": [
+      "Park",
+      "Historical",
+      "Picnic",
+      "Viewpoint"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "88",
+    "name": "Vajra Yogini Temple",
+    "description": "A Tantric Buddhist temple near Sankhu, dedicated to Goddess Vajra Yogini.",
+    "history": "Dating to the 16th century, it is a sacred site with meditation caves.",
+    "importance": "A spiritual destination for Buddhist pilgrims and Tantric practitioners.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.7530,
+      "lng": 85.4667
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Buddhist",
+      "Tantric",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "89",
+    "name": "Pottery Square (Bhaktapur)",
+    "description": "A vibrant square in Bhaktapur where artisans create traditional pottery.",
+    "history": "A centuries-old hub for Bhaktapur’s renowned pottery industry.",
+    "importance": "A cultural site offering hands-on pottery experiences and local crafts.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500"
+    ],
+    "location": {
+      "lat": 27.6690,
+      "lng": 85.4300
+    },
+    "category": "Cultural",
+    "tags": [
+      "Pottery",
+      "Craft",
+      "Newari",
+      "Market"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "90",
+    "name": "Dattatreya Temple",
+    "description": "A historic Hindu temple in Bhaktapur dedicated to Lord Dattatreya.",
+    "history": "Built in 1427, it is a fine example of Newari woodwork and architecture.",
+    "importance": "A cultural and religious landmark in Bhaktapur’s Dattatreya Square.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6730,
+      "lng": 85.4350
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Newari",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "91",
+    "name": "Pujari Math",
+    "description": "A historic Newari monastery in Bhaktapur with ornate wood carvings.",
+    "history": "Built in the 15th century, it served as a religious and cultural center.",
+    "importance": "A showcase of Bhaktapur’s artistic heritage, attracting art enthusiasts.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6730,
+      "lng": 85.4340
+    },
+    "category": "Cultural",
+    "tags": [
+      "Monastery",
+      "Newari",
+      "Architecture",
+      "Art"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "92",
+    "name": "Chobhar Caves",
+    "description": "A network of natural caves near Chobhar, linked to mythological stories.",
+    "history": "Associated with the legend of Manjushri draining the Kathmandu Valley lake.",
+    "importance": "A unique geological and spiritual site for adventurers and pilgrims.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.6600,
+      "lng": 85.2900
+    },
+    "category": "Natural",
+    "tags": [
+      "Caves",
+      "Mythology",
+      "Adventure",
+      "Spiritual"
+    ],
+    "openingHours": "Mon-Sun: 8:00 AM - 5:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "93",
+    "name": "Nasal Chowk",
+    "description": "A historic courtyard in Hanuman Dhoka Palace, used for royal coronations.",
+    "history": "Built in the 16th century, it was the ceremonial heart of the Malla kings.",
+    "importance": "A UNESCO site offering a glimpse into Nepal’s royal history and architecture.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.7043,
+      "lng": 85.3075
+    },
+    "category": "Historical",
+    "tags": [
+      "Courtyard",
+      "Royal",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 10:00 AM - 4:00 PM",
+    "contactInfo": "+977 1-4268969",
+    "isFamous": true
+  },
+  {
+    "id": "94",
+    "name": "Kel Tole",
+    "description": "A historic junction in Kathmandu with the Seto Machindranath Temple.",
+    "history": "A key trade and religious hub since the Malla period, bustling with activity.",
+    "importance": "A cultural hotspot reflecting Kathmandu’s Hindu-Buddhist harmony.",
+    "rating": 4.3,
+    "images": [
+      "https://www.istockphoto.com/photo/kathmandu-nepal-april-17-2019-a-busy-afternoon-at-a-street-in-the-tourist-district-gm1153510438-313344474"
+    ],
+    "location": {
+      "lat": 27.7060,
+      "lng": 85.3105
+    },
+    "category": "Cultural",
+    "tags": [
+      "Square",
+      "Temple",
+      "Market",
+      "Cultural"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "95",
+    "name": "Sundhara",
+    "description": "A historic stone spout and fountain in Kathmandu, part of the ancient water system.",
+    "history": "Built in the 17th century, it is part of the valley’s 1,500-year-old water network.",
+    "importance": "A cultural and architectural relic showcasing ancient Nepali engineering.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.7000,
+      "lng": 85.3100
+    },
+    "category": "Historical",
+    "tags": [
+      "Fountain",
+      "Historical",
+      "Architecture",
+      "Cultural"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "96",
+    "name": "Baghdwar",
+    "description": "A sacred site in Shivapuri National Park, the source of the Bagmati River.",
+    "history": "Revered since ancient times as a holy site for Hindus and Buddhists.",
+    "importance": "A spiritual and natural destination for hikers and pilgrims.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.8167,
+      "lng": 85.3833
+    },
+    "category": "Natural",
+    "tags": [
+      "River Source",
+      "Hiking",
+      "Pilgrimage",
+      "Scenic"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "97",
+    "name": "Bishnudwar",
+    "description": "A sacred site in Shivapuri National Park, the source of the Bishnumati River.",
+    "history": "A historic pilgrimage site linked to ancient water worship traditions.",
+    "importance": "A serene spot for spiritual reflection and nature exploration.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.8167,
+      "lng": 85.3833
+    },
+    "category": "Natural",
+    "tags": [
+      "River Source",
+      "Hiking",
+      "Pilgrimage",
+      "Scenic"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "98",
+    "name": "55 Window Palace",
+    "description": "A historic palace in Bhaktapur with 55 intricately carved wooden windows.",
+    "history": "Built in 1697 by King Bhupatindra Malla, it is a masterpiece of Newari architecture.",
+    "importance": "A UNESCO site showcasing Bhaktapur’s royal and artistic heritage.",
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6720,
+      "lng": 85.4280
+    },
+    "category": "Historical",
+    "tags": [
+      "Palace",
+      "Newari",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "+977 1-6610310",
+    "isFamous": true
+  },
+  {
+    "id": "99",
+    "name": "Panauti Village",
+    "description": "A historic Newari village with ancient temples and traditional architecture.",
+    "history": "Founded in the 13th century, it was a key stop on the Tibet trade route.",
+    "importance": "A cultural gem preserving Newari heritage and rural charm.",
+    "rating": 4.4,
+    "images": [
+      "https://www.istockphoto.com/photo/nepal-kathmandu-valley-panauti-newar-village-gm1280833040-379081443"
+    ],
+    "location": {
+      "lat": 27.5833,
+      "lng": 85.5167
+    },
+    "category": "Cultural",
+    "tags": [
+      "Village",
+      "Newari",
+      "Historical",
+      "Temples"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "100",
+    "name": "Balkumari Temple",
+    "description": "A Hindu temple in Thimi dedicated to Goddess Balkumari, a form of Durga.",
+    "history": "Built in the 16th century, it is central to Thimi’s cultural festivals.",
+    "importance": "A vibrant pilgrimage site, especially during the Biska Jatra festival.",
+    "rating": 4.4,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.6800,
+      "lng": 85.3833
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Festival",
+      "Newari"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "101",
+    "name": "Chandragiri Cable Car",
+    "description": "A scenic cable car ride to Chandragiri Hills, offering panoramic valley views.",
+    "history": "Opened in 2016, it is a modern attraction enhancing access to Chandragiri Hills.",
+    "importance": "A popular tourist activity combining adventure and stunning Himalayan vistas.",
+    "rating": 4.6,
+    "images": [
+      "https://www.istockphoto.com/photo/high-angle-view-of-houses-and-mountains-against-clear-blue-sky-gm1153510438-313344474"
+    ],
+    "location": {
+      "lat": 27.6667,
+      "lng": 85.2333
+    },
+    "category": "Natural",
+    "tags": [
+      "Cable Car",
+      "Viewpoint",
+      "Scenic",
+      "Adventure"
+    ],
+    "openingHours": "Mon-Sun: 8:00 AM - 6:00 PM",
+    "contactInfo": "+977 1-4312195",
+    "isFamous": true
+  },
+  {
+    "id": "102",
+    "name": "Manjushree Park",
+    "description": "A recreational park near Chobhar with gardens and views of the Bagmati River.",
+    "history": "Developed in the 20th century as a public park for local recreation.",
+    "importance": "A family-friendly spot for picnics and outdoor activities near Kathmandu.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.6600,
+      "lng": 85.2900
+    },
+    "category": "Natural",
+    "tags": [
+      "Park",
+      "Picnic",
+      "Riverside",
+      "Recreation"
+    ],
+    "openingHours": "Mon-Sun: 8:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "103",
+    "name": "Kirtipur Tundikhel",
+    "description": "A public ground in Kirtipur used for community events and relaxation.",
+    "history": "Historically a parade ground, it has been a community space since the 19th century.",
+    "importance": "A local hub for cultural events and leisurely walks in Kirtipur.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.6780,
+      "lng": 85.2750
+    },
+    "category": "Cultural",
+    "tags": [
+      "Park",
+      "Community",
+      "Historical",
+      "Relaxation"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "104",
+    "name": "Siddha Pokhari",
+    "description": "A historic pond in Bhaktapur, known for its serene ambiance and fish.",
+    "history": "Built in the 15th century by King Yaksha Malla, it is a cultural landmark.",
+    "importance": "A peaceful spot for relaxation and local festivals in Bhaktapur.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1751862926600-f38879e335ab?w=500"
+    ],
+    "location": {
+      "lat": 27.6720,
+      "lng": 85.4260
+    },
+    "category": "Natural",
+    "tags": [
+      "Pond",
+      "Historical",
+      "Cultural",
+      "Relaxation"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "105",
+    "name": "Panchalingeshwor Temple",
+    "description": "A Hindu temple in Lalitpur dedicated to Lord Shiva, known for its five lingams.",
+    "history": "Built in the 17th century, it is a lesser-known but significant Shiva shrine.",
+    "importance": "A serene site for devotees and visitors seeking spiritual tranquility.",
+    "rating": 4.3,
+    "images": [
+      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+    ],
+    "location": {
+      "lat": 27.6700,
+      "lng": 85.3200
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Shiva",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "106",
+    "name": "Nagarkot Eco Trail",
+    "description": "A scenic hiking trail near Nagarkot with views of forests and the Himalayas.",
+    "history": "Developed in the 2000s to promote eco-tourism in the Kathmandu Valley.",
+    "importance": "A nature lover’s paradise, offering a peaceful trek with stunning vistas.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+    ],
+    "location": {
+      "lat": 27.7150,
+      "lng": 85.5167
+    },
+    "category": "Natural",
+    "tags": [
+      "Hiking",
+      "Scenic",
+      "Eco-Tourism",
+      "Viewpoint"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "107",
+    "name": "Patan Golden Gate",
+    "description": "An ornate entrance to Patan Durbar Square, showcasing Newari craftsmanship.",
+    "history": "Built in the 17th century, it is part of the royal palace complex.",
+    "importance": "A UNESCO site and a stunning example of Patan’s architectural heritage.",
+    "rating": 4.5,
+    "images": [
+      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+    ],
+    "location": {
+      "lat": 27.6725,
+      "lng": 85.3255
+    },
+    "category": "Historical",
+    "tags": [
+      "Gate",
+      "Newari",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 9:00 AM - 5:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  }
+]
