@@ -7,7 +7,7 @@
     "importance": "Renowned for its historical inscriptions and Newari craftsmanship, offering panoramic valley views.",
     "rating": 4.7,
     "images": [
-      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/500px-Nepal_-_Changu_Narayan_%283566057331%29.jpg"
     ],
     "location": {
       "lat": 27.7162,
@@ -32,10 +32,10 @@
     "importance": "A peaceful spot for relaxation and birdwatching, especially during migratory seasons.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1751862926600-f38879e335ab?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg/2880px-Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg"
     ],
     "location": {
-      "lat": 27.6500,
+      "lat": 27.65,
       "lng": 85.2833
     },
     "category": "Natural",
@@ -57,7 +57,7 @@
     "importance": "Known for its tranquil setting and vibrant murals, ideal for meditation and sunrise views.",
     "rating": 4.5,
     "images": [
-      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+      "https://en.wikipedia.org/wiki/Seto_Gumba#/media/File:Seto_Gumba_(White_Monastery),_Kathmandu_2013.jpg"
     ],
     "location": {
       "lat": 27.7333,
@@ -82,11 +82,11 @@
     "importance": "A serene urban oasis for walking and relaxation amidst the city’s hustle.",
     "rating": 4.3,
     "images": [
-      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+      "https://en.wikipedia.org/wiki/Kamal_Pokhari#/media/File:Kamal_Pokhari_Historic_Pond_Kathmandu,_Nepal_Rajesh_Dhungana.jpg"
     ],
     "location": {
-      "lat": 27.7100,
-      "lng": 85.3250
+      "lat": 27.71,
+      "lng": 85.325
     },
     "category": "Natural",
     "tags": [
@@ -107,10 +107,10 @@
     "importance": "A lesser-known cultural hub showcasing Newari heritage and local festivals.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+      "https://en.wikipedia.org/wiki/Madhyapur_Thimi#/media/File:Layaku_Taleju.jpg"
     ],
     "location": {
-      "lat": 27.6800,
+      "lat": 27.68,
       "lng": 85.3833
     },
     "category": "Historical",
@@ -132,10 +132,10 @@
     "importance": "A key site for locals seeking blessings for success and new ventures.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+      "https://en.wikipedia.org/wiki/Ashok_Binayak_Temple#/media/File:Ashok_Vinayak_at_Hanuman-Dhoka_Durbar_Square.jpg"
     ],
     "location": {
-      "lat": 27.7020,
+      "lat": 27.702,
       "lng": 85.3085
     },
     "category": "Religious",
@@ -182,11 +182,11 @@
     "importance": "A treasure trove of Nepali culture, with sections on art, weapons, and Buddhism.",
     "rating": 4.5,
     "images": [
-      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+      "https://en.wikipedia.org/wiki/National_Museum_of_Nepal#/media/File:Nepal.Museum.JPG"
     ],
     "location": {
-      "lat": 27.7050,
-      "lng": 85.2900
+      "lat": 27.705,
+      "lng": 85.29
     },
     "category": "Cultural",
     "tags": [
@@ -207,11 +207,11 @@
     "importance": "A serene retreat for spiritual seekers and tourists, with a vibrant gift shop and café.",
     "rating": 4.6,
     "images": [
-      "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
+      "https://en.wikipedia.org/wiki/Kopan_Monastery#/media/File:Kopan_01.JPG"
     ],
     "location": {
-      "lat": 27.7420,
-      "lng": 85.3660
+      "lat": 27.742,
+      "lng": 85.366
     },
     "category": "Religious",
     "tags": [
@@ -232,7 +232,7 @@
     "importance": "Believed to ensure strength and safety for Nepal, it attracts many worshippers.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+      "https://en.wikipedia.org/wiki/Akash_Bhairav#/media/File:Akash_Bhairab.JPG"
     ],
     "location": {
       "lat": 27.7065,
@@ -257,11 +257,11 @@
     "importance": "A cultural and religious anchor in Kathmandu’s busiest market square.",
     "rating": 4.3,
     "images": [
-      "https://www.istockphoto.com/photo/nepali-street-seller-selling-flowers-and-vegetables-in-patan-nepal-gm1153510438-313344474"
+      "https://en.wikipedia.org/wiki/Asan,_Kathmandu#/media/File:AnnapurnaAjima1.jpg"
     ],
     "location": {
-      "lat": 27.7070,
-      "lng": 85.3100
+      "lat": 27.707,
+      "lng": 85.31
     },
     "category": "Religious",
     "tags": [
@@ -285,8 +285,8 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.7070,
-      "lng": 85.3100
+      "lat": 27.707,
+      "lng": 85.31
     },
     "category": "Religious",
     "tags": [
@@ -310,8 +310,8 @@
       "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
     ],
     "location": {
-      "lat": 27.7080,
-      "lng": 85.3060
+      "lat": 27.708,
+      "lng": 85.306
     },
     "category": "Cultural",
     "tags": [
@@ -360,8 +360,8 @@
       "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
     ],
     "location": {
-      "lat": 27.7040,
-      "lng": 85.3080
+      "lat": 27.704,
+      "lng": 85.308
     },
     "category": "Religious",
     "tags": [
@@ -386,7 +386,7 @@
     ],
     "location": {
       "lat": 27.8167,
-      "lng": 85.2500
+      "lng": 85.25
     },
     "category": "Natural",
     "tags": [
@@ -410,7 +410,7 @@
       "https://www.istockphoto.com/photo/fulari-gumba-from-drone-point-of-view-nepal-gm1350542977-426697159"
     ],
     "location": {
-      "lat": 27.7110,
+      "lat": 27.711,
       "lng": 85.2833
     },
     "category": "Religious",
@@ -460,8 +460,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.7150,
-      "lng": 85.3100
+      "lat": 27.715,
+      "lng": 85.31
     },
     "category": "Cultural",
     "tags": [
@@ -485,7 +485,7 @@
       "https://www.istockphoto.com/photo/nepal-kathmandu-valley-panauti-newar-village-gm1280833040-379081443"
     ],
     "location": {
-      "lat": 27.8000,
+      "lat": 27.8,
       "lng": 85.4167
     },
     "category": "Cultural",
@@ -536,7 +536,7 @@
     ],
     "location": {
       "lat": 27.6705,
-      "lng": 85.4290
+      "lng": 85.429
     },
     "category": "Cultural",
     "tags": [
@@ -585,8 +585,8 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.6720,
-      "lng": 85.4280
+      "lat": 27.672,
+      "lng": 85.428
     },
     "category": "Religious",
     "tags": [
@@ -660,8 +660,8 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.6790,
-      "lng": 85.2740
+      "lat": 27.679,
+      "lng": 85.274
     },
     "category": "Religious",
     "tags": [
@@ -686,7 +686,7 @@
     ],
     "location": {
       "lat": 27.7035,
-      "lng": 85.3070
+      "lng": 85.307
     },
     "category": "Cultural",
     "tags": [
@@ -735,8 +735,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.7050,
-      "lng": 85.3160
+      "lat": 27.705,
+      "lng": 85.316
     },
     "category": "Cultural",
     "tags": [
@@ -760,7 +760,7 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.7530,
+      "lat": 27.753,
       "lng": 85.4667
     },
     "category": "Religious",
@@ -785,8 +785,8 @@
       "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500"
     ],
     "location": {
-      "lat": 27.6690,
-      "lng": 85.4300
+      "lat": 27.669,
+      "lng": 85.43
     },
     "category": "Cultural",
     "tags": [
@@ -810,8 +810,8 @@
       "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
     ],
     "location": {
-      "lat": 27.6730,
-      "lng": 85.4350
+      "lat": 27.673,
+      "lng": 85.435
     },
     "category": "Religious",
     "tags": [
@@ -835,8 +835,8 @@
       "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
     ],
     "location": {
-      "lat": 27.6730,
-      "lng": 85.4340
+      "lat": 27.673,
+      "lng": 85.434
     },
     "category": "Cultural",
     "tags": [
@@ -860,8 +860,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.6600,
-      "lng": 85.2900
+      "lat": 27.66,
+      "lng": 85.29
     },
     "category": "Natural",
     "tags": [
@@ -910,7 +910,7 @@
       "https://www.istockphoto.com/photo/kathmandu-nepal-april-17-2019-a-busy-afternoon-at-a-street-in-the-tourist-district-gm1153510438-313344474"
     ],
     "location": {
-      "lat": 27.7060,
+      "lat": 27.706,
       "lng": 85.3105
     },
     "category": "Cultural",
@@ -935,8 +935,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.7000,
-      "lng": 85.3100
+      "lat": 27.7,
+      "lng": 85.31
     },
     "category": "Historical",
     "tags": [
@@ -1010,8 +1010,8 @@
       "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
     ],
     "location": {
-      "lat": 27.6720,
-      "lng": 85.4280
+      "lat": 27.672,
+      "lng": 85.428
     },
     "category": "Historical",
     "tags": [
@@ -1060,7 +1060,7 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.6800,
+      "lat": 27.68,
       "lng": 85.3833
     },
     "category": "Religious",
@@ -1110,8 +1110,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.6600,
-      "lng": 85.2900
+      "lat": 27.66,
+      "lng": 85.29
     },
     "category": "Natural",
     "tags": [
@@ -1135,8 +1135,8 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.6780,
-      "lng": 85.2750
+      "lat": 27.678,
+      "lng": 85.275
     },
     "category": "Cultural",
     "tags": [
@@ -1160,8 +1160,8 @@
       "https://images.unsplash.com/photo-1751862926600-f38879e335ab?w=500"
     ],
     "location": {
-      "lat": 27.6720,
-      "lng": 85.4260
+      "lat": 27.672,
+      "lng": 85.426
     },
     "category": "Natural",
     "tags": [
@@ -1185,8 +1185,8 @@
       "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
     ],
     "location": {
-      "lat": 27.6700,
-      "lng": 85.3200
+      "lat": 27.67,
+      "lng": 85.32
     },
     "category": "Religious",
     "tags": [
@@ -1210,7 +1210,7 @@
       "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
     ],
     "location": {
-      "lat": 27.7150,
+      "lat": 27.715,
       "lng": 85.5167
     },
     "category": "Natural",
