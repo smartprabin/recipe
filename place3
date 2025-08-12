@@ -1,5 +1,256 @@
 [
   {
+    "id": "8",
+    "name": "Swayambhunath Stupa",
+    "description": "A sacred Buddhist stupa atop a hill in Kathmandu, offering panoramic views of the valley.",
+    "history": "Believed to date back to the 5th century, it is one of the oldest religious sites in Nepal.",
+    "importance": "Known as the Monkey Temple, it is a UNESCO World Heritage Site and a symbol of Buddhist heritage.",
+    "rating": 4.8,
+    "images": [
+      "https://images.pexels.com/photos/764689/pexels-photo-764689.jpeg"
+    ],
+    "location": {
+      "lat": 27.715,
+      "lng": 85.29
+    },
+    "category": "Religious",
+    "tags": [
+      "Stupa",
+      "Buddhist",
+      "UNESCO",
+      "Monument"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "9",
+    "name": "Pashupatinath Temple",
+    "description": "One of the holiest Hindu temples dedicated to Lord Shiva, located along the Bagmati River.",
+    "history": "Established in the 5th century, with the current structure built in the 17th century.",
+    "importance": "A major pilgrimage site for Hindus worldwide and a UNESCO World Heritage Site.",
+    "rating": 4.9,
+    "images": [
+      "https://images.pexels.com/photos/19564307/pexels-photo-19564307.jpeg"
+    ],
+    "location": {
+      "lat": 27.7105,
+      "lng": 85.3488
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "UNESCO",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 4:00 AM - 7:00 PM",
+    "contactInfo": "+977 1-4470218",
+    "isFamous": true
+  },
+  {
+    "id": "10",
+    "name": "Boudhanath Stupa",
+    "description": "One of the largest spherical stupas in the world, a focal point for Tibetan Buddhism in Nepal.",
+    "history": "Constructed shortly after the death of Lord Buddha, rebuilt in the 14th century.",
+    "importance": "A UNESCO World Heritage Site and a center for meditation and Tibetan culture.",
+    "rating": 4.8,
+    "images": [
+      "https://images.pexels.com/photos/2408666/pexels-photo-2408666.jpeg"
+    ],
+    "location": {
+      "lat": 27.7215,
+      "lng": 85.362
+    },
+    "category": "Religious",
+    "tags": [
+      "Stupa",
+      "Buddhist",
+      "UNESCO",
+      "Tibetan"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "11",
+    "name": "Phewa Lake",
+    "description": "A scenic lake in Pokhara with the Tal Barahi Temple situated on an island in the center.",
+    "history": "A natural freshwater lake, revered for centuries and central to Pokhara's tourism.",
+    "importance": "Famous for boating, reflection of Annapurna mountains, and cultural significance.",
+    "rating": 4.7,
+    "images": [
+      "https://images.pexels.com/photos/14989384/pexels-photo-14989384.jpeg"
+    ],
+    "location": {
+      "lat": 28.2116,
+      "lng": 83.9323
+    },
+    "category": "Natural",
+    "tags": [
+      "Lake",
+      "Scenic",
+      "Boating",
+      "Temple"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "12",
+    "name": "Chitwan National Park",
+    "description": "A UNESCO World Heritage Site known for its biodiversity, including one-horned rhinos and Bengal tigers.",
+    "history": "Established in 1973 as Nepal's first national park to protect endangered species.",
+    "importance": "A premier destination for wildlife safaris and eco-tourism in Nepal.",
+    "rating": 4.6,
+    "images": [
+      "https://images.pexels.com/photos/32505978/pexels-photo-32505978.jpeg"
+    ],
+    "location": {
+      "lat": 27.5291,
+      "lng": 84.4535
+    },
+    "category": "Natural",
+    "tags": [
+      "Wildlife",
+      "Safari",
+      "UNESCO",
+      "National Park"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "+977 56-580056",
+    "isFamous": true
+  },
+  {
+    "id": "13",
+    "name": "Lumbini",
+    "description": "The birthplace of Lord Buddha, featuring the Maya Devi Temple and sacred gardens.",
+    "history": "A pilgrimage site since the 3rd century BC, marked by Ashoka's pillar.",
+    "importance": "A UNESCO World Heritage Site and one of the holiest places for Buddhists worldwide.",
+    "rating": 4.9,
+    "images": [
+      "https://images.pexels.com/photos/7331531/pexels-photo-7331531.jpeg"
+    ],
+    "location": {
+      "lat": 27.6799,
+      "lng": 83.507
+    },
+    "category": "Religious",
+    "tags": [
+      "Buddhist",
+      "UNESCO",
+      "Pilgrimage",
+      "Temple"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "+977 71-580189",
+    "isFamous": true
+  },
+  {
+    "id": "14",
+    "name": "Annapurna Base Camp",
+    "description": "A trekking destination surrounded by towering Himalayan peaks like Annapurna I and Machhapuchhre.",
+    "history": "Popularized as a trekking route in the 1970s, it remains a bucket-list adventure.",
+    "importance": "Offers breathtaking views and a glimpse into high-altitude Sherpa culture.",
+    "rating": 4.8,
+    "images": [
+      "https://images.pexels.com/photos/25245177/pexels-photo-25245177.jpeg"
+    ],
+    "location": {
+      "lat": 28.53,
+      "lng": 83.875
+    },
+    "category": "Adventure",
+    "tags": [
+      "Trekking",
+      "Himalayas",
+      "Scenic",
+      "Adventure"
+    ],
+    "openingHours": "N/A",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "15",
+    "name": "Patan Durbar Square",
+    "description": "A historic square in Lalitpur with ancient palaces, temples, and intricate stone carvings.",
+    "history": "A royal center of the Malla kings, with structures from the 14th–18th centuries.",
+    "importance": "A UNESCO World Heritage Site showcasing Newari architecture and culture.",
+    "rating": 4.7,
+    "images": [
+      "https://images.pexels.com/photos/11806577/pexels-photo-11806577.jpeg"
+    ],
+    "location": {
+      "lat": 27.6783,
+      "lng": 85.325
+    },
+    "category": "Historical",
+    "tags": [
+      "Palace",
+      "Temple",
+      "UNESCO",
+      "Architecture"
+    ],
+    "openingHours": "Mon-Sun: 7:00 AM - 7:00 PM",
+    "contactInfo": "+977 1-5521212",
+    "isFamous": true
+  },
+  {
+    "id": "16",
+    "name": "Muktinath Temple",
+    "description": "A sacred site for both Hindus and Buddhists, located in the Mustang region at 3,800 meters.",
+    "history": "Revered for centuries, it is associated with Lord Vishnu and Guru Rinpoche.",
+    "importance": "A key pilgrimage site known for its 108 water spouts and eternal flame.",
+    "rating": 4.8,
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-muktinath?w=500"
+    ],
+    "location": {
+      "lat": 28.8167,
+      "lng": 83.8667
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "Hindu",
+      "Buddhist",
+      "Pilgrimage"
+    ],
+    "openingHours": "Mon-Sun: 6:00 AM - 6:00 PM",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "17",
+    "name": "Gosaikunda Lake",
+    "description": "A high-altitude alpine lake revered as a holy site, surrounded by rugged peaks.",
+    "history": "Associated with Lord Shiva, it has been a pilgrimage site for centuries.",
+    "importance": "Popular among trekkers and pilgrims, especially during the Janai Purnima festival.",
+    "rating": 4.6,
+    "images": [
+      "https://images.unsplash.com/photo-placeholder-gosaikunda?w=500"
+    ],
+    "location": {
+      "lat": 28.0824,
+      "lng": 85.4146
+    },
+    "category": "Natural",
+    "tags": [
+      "Lake",
+      "Pilgrimage",
+      "Trekking",
+      "Scenic"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+
+  {
     "id": "58",
     "name": "Changu Narayan Temple",
     "description": "An ancient Hindu temple dedicated to Lord Vishnu, perched atop a hill with intricate carvings.",
