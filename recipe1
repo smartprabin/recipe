@@ -2,10 +2,22 @@
   {
     "id": "1",
     "name": "Yomari",
-    "image": "https://www.shutterstock.com/image-photo/yomari-nepali-dessert-newari-food-2086157440",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Yamari.jpg",
     "description": "Sweet steamed dumpling filled with molasses or khuwa, shaped like a fish",
-    "ingredients": ["Rice flour", "Chaku (molasses)", "Khuwa", "Sesame seeds", "Water"],
-    "instructions": ["Prepare rice flour dough with hot water", "Shape into cups", "Fill with chaku or khuwa", "Steam for 10 minutes", "Serve warm"],
+    "ingredients": [
+      "Rice flour",
+      "Chaku (molasses)",
+      "Khuwa",
+      "Sesame seeds",
+      "Water"
+    ],
+    "instructions": [
+      "Prepare rice flour dough with hot water",
+      "Shape into cups",
+      "Fill with chaku or khuwa",
+      "Steam for 10 minutes",
+      "Serve warm"
+    ],
     "cookTime": 20,
     "servings": 4,
     "difficulty": "Medium",
@@ -17,8 +29,22 @@
     "name": "Chhoila",
     "image": "https://www.gettyimages.com/detail/photo/close-up-of-choila-traditional-nepali-newari-dish-royalty-free-image/2153996947",
     "description": "Spicy grilled buffalo meat, a staple in Newari feasts",
-    "ingredients": ["Buffalo meat", "Mustard oil", "Chili powder", "Cumin", "Garlic", "Ginger", "Onions"],
-    "instructions": ["Grill meat over flame", "Cut into small pieces", "Mix with spices and mustard oil", "Add onions", "Serve with beaten rice"],
+    "ingredients": [
+      "Buffalo meat",
+      "Mustard oil",
+      "Chili powder",
+      "Cumin",
+      "Garlic",
+      "Ginger",
+      "Onions"
+    ],
+    "instructions": [
+      "Grill meat over flame",
+      "Cut into small pieces",
+      "Mix with spices and mustard oil",
+      "Add onions",
+      "Serve with beaten rice"
+    ],
     "cookTime": 30,
     "servings": 4,
     "difficulty": "Medium",
@@ -28,10 +54,23 @@
   {
     "id": "3",
     "name": "Chatamari",
-    "image": "https://www.shutterstock.com/image-photo/newari-dish-chatamari-known-nepali-pizza-2086157446",
+    "image": "https://i.ytimg.com/vi/SvKYUqphmGY/sddefault.jpg",
     "description": "Rice flour crepe topped with meat, eggs, or vegetables, known as Newari pizza",
-    "ingredients": ["Rice flour", "Minced buffalo", "Eggs", "Onions", "Coriander", "Chili"],
-    "instructions": ["Make rice flour batter", "Spread on hot pan", "Add toppings", "Cook until crispy", "Serve hot"],
+    "ingredients": [
+      "Rice flour",
+      "Minced buffalo",
+      "Eggs",
+      "Onions",
+      "Coriander",
+      "Chili"
+    ],
+    "instructions": [
+      "Make rice flour batter",
+      "Spread on hot pan",
+      "Add toppings",
+      "Cook until crispy",
+      "Serve hot"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Medium",
@@ -43,8 +82,20 @@
     "name": "Bara",
     "image": "https://www.shutterstock.com/image-photo/closeup-view-traditional-newari-food-bread-2086157452",
     "description": "Lentil pancake, often topped with egg or meat",
-    "ingredients": ["Black lentils", "Ginger", "Salt", "Egg", "Oil"],
-    "instructions": ["Soak lentils overnight", "Grind into paste", "Add spices", "Fry as pancakes", "Serve with chutney"],
+    "ingredients": [
+      "Black lentils",
+      "Ginger",
+      "Salt",
+      "Egg",
+      "Oil"
+    ],
+    "instructions": [
+      "Soak lentils overnight",
+      "Grind into paste",
+      "Add spices",
+      "Fry as pancakes",
+      "Serve with chutney"
+    ],
     "cookTime": 25,
     "servings": 4,
     "difficulty": "Medium",
@@ -54,10 +105,21 @@
   {
     "id": "5",
     "name": "Samay Baji",
-    "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Samaybaji.JPG/500px-Samaybaji.JPG",
     "description": "Traditional platter with beaten rice, chhoila, and assorted items",
-    "ingredients": ["Beaten rice", "Chhoila", "Aalu achar", "Bhatmas", "Saag", "Bara"],
-    "instructions": ["Prepare each component separately", "Arrange on leaf plate", "Serve with aila or chhyang"],
+    "ingredients": [
+      "Beaten rice",
+      "Chhoila",
+      "Aalu achar",
+      "Bhatmas",
+      "Saag",
+      "Bara"
+    ],
+    "instructions": [
+      "Prepare each component separately",
+      "Arrange on leaf plate",
+      "Serve with aila or chhyang"
+    ],
     "cookTime": 45,
     "servings": 4,
     "difficulty": "Hard",
@@ -67,10 +129,23 @@
   {
     "id": "6",
     "name": "Kwati",
-    "image": "https://www.istockphoto.com/photo/a-bowl-filled-with-nutritious-mixed-beans-soup-kwati-for-janai-gm1153919430-313614678",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/A_bowl_of_Kwati.jpg/960px-A_bowl_of_Kwati.jpg",
     "description": "Nutritious soup made from nine types of beans",
-    "ingredients": ["Mixed beans", "Ginger", "Garlic", "Cumin", "Chili", "Onions"],
-    "instructions": ["Soak beans overnight", "Cook with spices", "Simmer until thick", "Garnish with onions", "Serve hot"],
+    "ingredients": [
+      "Mixed beans",
+      "Ginger",
+      "Garlic",
+      "Cumin",
+      "Chili",
+      "Onions"
+    ],
+    "instructions": [
+      "Soak beans overnight",
+      "Cook with spices",
+      "Simmer until thick",
+      "Garnish with onions",
+      "Serve hot"
+    ],
     "cookTime": 60,
     "servings": 6,
     "difficulty": "Medium",
@@ -80,10 +155,20 @@
   {
     "id": "7",
     "name": "Juju Dhau",
-    "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Juju_dhau.jpg/500px-Juju_dhau.jpg",
     "description": "Creamy yogurt from Bhaktapur, served in clay pots",
-    "ingredients": ["Milk", "Starter culture", "Sugar"],
-    "instructions": ["Heat milk", "Add culture", "Set in clay pots", "Let ferment overnight", "Serve chilled"],
+    "ingredients": [
+      "Milk",
+      "Starter culture",
+      "Sugar"
+    ],
+    "instructions": [
+      "Heat milk",
+      "Add culture",
+      "Set in clay pots",
+      "Let ferment overnight",
+      "Serve chilled"
+    ],
     "cookTime": 480,
     "servings": 4,
     "difficulty": "Easy",
@@ -93,10 +178,21 @@
   {
     "id": "8",
     "name": "Sapu Mhicha",
-    "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sapu_Micha.jpg/500px-Sapu_Micha.jpg",
     "description": "Bone marrow stuffed in buffalo leaf tripe",
-    "ingredients": ["Buffalo bone marrow", "Leaf tripe", "Spices", "Oil"],
-    "instructions": ["Stuff marrow in tripe", "Tie with thread", "Boil then fry", "Serve whole", "Eat hot"],
+    "ingredients": [
+      "Buffalo bone marrow",
+      "Leaf tripe",
+      "Spices",
+      "Oil"
+    ],
+    "instructions": [
+      "Stuff marrow in tripe",
+      "Tie with thread",
+      "Boil then fry",
+      "Serve whole",
+      "Eat hot"
+    ],
     "cookTime": 40,
     "servings": 2,
     "difficulty": "Hard",
@@ -108,8 +204,19 @@
     "name": "Gwarmari",
     "image": "https://www.freepik.com/free-photo/newari-food-photos_9576142.htm",
     "description": "Round, fluffy bread, perfect for breakfast",
-    "ingredients": ["Wheat flour", "Baking soda", "Salt", "Water", "Oil"],
-    "instructions": ["Make batter", "Shape into rounds", "Deep fry until golden", "Serve with tea"],
+    "ingredients": [
+      "Wheat flour",
+      "Baking soda",
+      "Salt",
+      "Water",
+      "Oil"
+    ],
+    "instructions": [
+      "Make batter",
+      "Shape into rounds",
+      "Deep fry until golden",
+      "Serve with tea"
+    ],
     "cookTime": 20,
     "servings": 4,
     "difficulty": "Easy",
@@ -119,10 +226,20 @@
   {
     "id": "10",
     "name": "Lakhamari",
-    "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Lakha_Mari_.jpeg/500px-Lakha_Mari_.jpeg",
     "description": "Crispy sweet bread used in Newari weddings",
-    "ingredients": ["Flour", "Sugar", "Butter", "Water"],
-    "instructions": ["Make dough", "Shape into sticks or rounds", "Deep fry", "Cool and serve"],
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Butter",
+      "Water"
+    ],
+    "instructions": [
+      "Make dough",
+      "Shape into sticks or rounds",
+      "Deep fry",
+      "Cool and serve"
+    ],
     "cookTime": 30,
     "servings": 6,
     "difficulty": "Medium",
@@ -134,8 +251,19 @@
     "name": "Aalu Achar",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Spicy potato salad, a common side dish",
-    "ingredients": ["Potatoes", "Mustard oil", "Chili", "Sesame seeds", "Coriander"],
-    "instructions": ["Boil potatoes", "Mix with spices and oil", "Garnish with coriander", "Serve cold"],
+    "ingredients": [
+      "Potatoes",
+      "Mustard oil",
+      "Chili",
+      "Sesame seeds",
+      "Coriander"
+    ],
+    "instructions": [
+      "Boil potatoes",
+      "Mix with spices and oil",
+      "Garnish with coriander",
+      "Serve cold"
+    ],
     "cookTime": 15,
     "servings": 3,
     "difficulty": "Easy",
@@ -147,8 +275,19 @@
     "name": "Bhatmas Sadeko",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Spicy roasted soybean salad",
-    "ingredients": ["Soybeans", "Chili powder", "Garlic", "Mustard oil", "Onions"],
-    "instructions": ["Roast soybeans", "Mix with spices and oil", "Add onions", "Serve as snack"],
+    "ingredients": [
+      "Soybeans",
+      "Chili powder",
+      "Garlic",
+      "Mustard oil",
+      "Onions"
+    ],
+    "instructions": [
+      "Roast soybeans",
+      "Mix with spices and oil",
+      "Add onions",
+      "Serve as snack"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Easy",
@@ -158,10 +297,20 @@
   {
     "id": "13",
     "name": "Selroti",
-    "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sel_Roti.jpg/500px-Sel_Roti.jpg",
     "description": "Sweet, ring-shaped rice flour bread",
-    "ingredients": ["Rice flour", "Sugar", "Ghee", "Water"],
-    "instructions": ["Make batter", "Shape into rings", "Deep fry", "Serve with tea"],
+    "ingredients": [
+      "Rice flour",
+      "Sugar",
+      "Ghee",
+      "Water"
+    ],
+    "instructions": [
+      "Make batter",
+      "Shape into rings",
+      "Deep fry",
+      "Serve with tea"
+    ],
     "cookTime": 25,
     "servings": 4,
     "difficulty": "Medium",
@@ -173,8 +322,20 @@
     "name": "Mushroom Chhoila",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Vegetarian version of chhoila with grilled mushrooms",
-    "ingredients": ["Mushrooms", "Mustard oil", "Chili powder", "Cumin", "Garlic", "Coriander"],
-    "instructions": ["Grill mushrooms", "Mix with spices and oil", "Garnish with coriander", "Serve cold"],
+    "ingredients": [
+      "Mushrooms",
+      "Mustard oil",
+      "Chili powder",
+      "Cumin",
+      "Garlic",
+      "Coriander"
+    ],
+    "instructions": [
+      "Grill mushrooms",
+      "Mix with spices and oil",
+      "Garnish with coriander",
+      "Serve cold"
+    ],
     "cookTime": 25,
     "servings": 3,
     "difficulty": "Medium",
@@ -186,8 +347,18 @@
     "name": "Wo",
     "image": "https://www.shutterstock.com/image-photo/closeup-view-traditional-newari-food-bread-2086157452",
     "description": "Pan-fried lentil cake, similar to bara",
-    "ingredients": ["Black lentils", "Ginger", "Salt", "Oil"],
-    "instructions": ["Soak lentils", "Grind into paste", "Pan-fry as cakes", "Serve with chutney"],
+    "ingredients": [
+      "Black lentils",
+      "Ginger",
+      "Salt",
+      "Oil"
+    ],
+    "instructions": [
+      "Soak lentils",
+      "Grind into paste",
+      "Pan-fry as cakes",
+      "Serve with chutney"
+    ],
     "cookTime": 20,
     "servings": 4,
     "difficulty": "Medium",
@@ -199,8 +370,20 @@
     "name": "Chicken Chhoila",
     "image": "https://www.gettyimages.com/detail/photo/close-up-of-choila-traditional-nepali-newari-dish-royalty-free-image/2153996947",
     "description": "Spicy grilled chicken, a lighter alternative to buffalo chhoila",
-    "ingredients": ["Chicken", "Mustard oil", "Chili powder", "Garlic", "Ginger", "Onions"],
-    "instructions": ["Grill chicken", "Cut into pieces", "Mix with spices", "Serve with beaten rice"],
+    "ingredients": [
+      "Chicken",
+      "Mustard oil",
+      "Chili powder",
+      "Garlic",
+      "Ginger",
+      "Onions"
+    ],
+    "instructions": [
+      "Grill chicken",
+      "Cut into pieces",
+      "Mix with spices",
+      "Serve with beaten rice"
+    ],
     "cookTime": 25,
     "servings": 4,
     "difficulty": "Medium",
@@ -212,8 +395,19 @@
     "name": "Khursani Til Ko Achar",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Spicy chili and sesame pickle",
-    "ingredients": ["Green chilies", "Sesame seeds", "Mustard oil", "Salt", "Turmeric"],
-    "instructions": ["Roast chilies and sesame", "Grind into paste", "Mix with oil and spices", "Serve as condiment"],
+    "ingredients": [
+      "Green chilies",
+      "Sesame seeds",
+      "Mustard oil",
+      "Salt",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Roast chilies and sesame",
+      "Grind into paste",
+      "Mix with oil and spices",
+      "Serve as condiment"
+    ],
     "cookTime": 15,
     "servings": 4,
     "difficulty": "Easy",
@@ -225,8 +419,20 @@
     "name": "Tama Alu Masyaura",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Bamboo shoot, potato, and soybean curry",
-    "ingredients": ["Bamboo shoots", "Potatoes", "Soybeans", "Spices", "Oil"],
-    "instructions": ["Cook soybeans", "Sauté bamboo shoots and potatoes", "Add spices", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Bamboo shoots",
+      "Potatoes",
+      "Soybeans",
+      "Spices",
+      "Oil"
+    ],
+    "instructions": [
+      "Cook soybeans",
+      "Sauté bamboo shoots and potatoes",
+      "Add spices",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 40,
     "servings": 4,
     "difficulty": "Medium",
@@ -238,8 +444,19 @@
     "name": "Sukuti",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
     "description": "Spicy dried meat jerky",
-    "ingredients": ["Buffalo meat", "Chili powder", "Garlic", "Ginger", "Salt"],
-    "instructions": ["Dry meat in sun", "Mix with spices", "Grill lightly", "Serve as snack"],
+    "ingredients": [
+      "Buffalo meat",
+      "Chili powder",
+      "Garlic",
+      "Ginger",
+      "Salt"
+    ],
+    "instructions": [
+      "Dry meat in sun",
+      "Mix with spices",
+      "Grill lightly",
+      "Serve as snack"
+    ],
     "cookTime": 120,
     "servings": 4,
     "difficulty": "Hard",
@@ -251,8 +468,19 @@
     "name": "Malpuwa",
     "image": "https://www.freepik.com/free-photo/newari-food-photos_9576142.htm",
     "description": "Sweet deep-fried pancake",
-    "ingredients": ["Flour", "Sugar", "Milk", "Cardamom", "Oil"],
-    "instructions": ["Make batter", "Fry in hot oil", "Soak in syrup", "Serve warm"],
+    "ingredients": [
+      "Flour",
+      "Sugar",
+      "Milk",
+      "Cardamom",
+      "Oil"
+    ],
+    "instructions": [
+      "Make batter",
+      "Fry in hot oil",
+      "Soak in syrup",
+      "Serve warm"
+    ],
     "cookTime": 30,
     "servings": 4,
     "difficulty": "Medium",
@@ -264,8 +492,19 @@
     "name": "Khasi Ko Masu",
     "image": "https://www.istockphoto.com/photo/traditional-newari-nepali-thali-meal-kathmandu-nepal-gm1153919430-313614678",
     "description": "Spicy goat meat curry",
-    "ingredients": ["Goat meat", "Onions", "Tomatoes", "Spices", "Oil"],
-    "instructions": ["Cook meat with spices", "Add onions and tomatoes", "Simmer until tender", "Serve with rice"],
+    "ingredients": [
+      "Goat meat",
+      "Onions",
+      "Tomatoes",
+      "Spices",
+      "Oil"
+    ],
+    "instructions": [
+      "Cook meat with spices",
+      "Add onions and tomatoes",
+      "Simmer until tender",
+      "Serve with rice"
+    ],
     "cookTime": 50,
     "servings": 4,
     "difficulty": "Medium",
@@ -277,8 +516,19 @@
     "name": "Piro Aloo Sadeko",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Spicy potato salad with chili",
-    "ingredients": ["Potatoes", "Chili powder", "Mustard oil", "Coriander", "Onions"],
-    "instructions": ["Boil potatoes", "Mix with spices and oil", "Garnish with coriander", "Serve cold"],
+    "ingredients": [
+      "Potatoes",
+      "Chili powder",
+      "Mustard oil",
+      "Coriander",
+      "Onions"
+    ],
+    "instructions": [
+      "Boil potatoes",
+      "Mix with spices and oil",
+      "Garnish with coriander",
+      "Serve cold"
+    ],
     "cookTime": 15,
     "servings": 3,
     "difficulty": "Easy",
@@ -290,8 +540,19 @@
     "name": "Lapsi Ko Achar",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Tangy hog plum pickle",
-    "ingredients": ["Hog plums", "Chili powder", "Salt", "Mustard oil", "Spices"],
-    "instructions": ["Boil plums", "Mix with spices and oil", "Store in jar", "Serve as condiment"],
+    "ingredients": [
+      "Hog plums",
+      "Chili powder",
+      "Salt",
+      "Mustard oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Boil plums",
+      "Mix with spices and oil",
+      "Store in jar",
+      "Serve as condiment"
+    ],
     "cookTime": 20,
     "servings": 4,
     "difficulty": "Easy",
@@ -303,8 +564,18 @@
     "name": "Sekuwa",
     "image": "https://www.gettyimages.com/detail/photo/close-up-of-choila-traditional-nepali-newari-dish-royalty-free-image/2153996947",
     "description": "Newari-style barbecued meat",
-    "ingredients": ["Chicken", "Spices", "Mustard oil", "Garlic", "Ginger"],
-    "instructions": ["Marinate meat", "Grill over flame", "Serve with chutney"],
+    "ingredients": [
+      "Chicken",
+      "Spices",
+      "Mustard oil",
+      "Garlic",
+      "Ginger"
+    ],
+    "instructions": [
+      "Marinate meat",
+      "Grill over flame",
+      "Serve with chutney"
+    ],
     "cookTime": 30,
     "servings": 4,
     "difficulty": "Medium",
@@ -316,8 +587,19 @@
     "name": "Gundruk Masaura",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Fermented greens with dried soybean balls",
-    "ingredients": ["Gundruk", "Soybeans", "Potatoes", "Spices", "Oil"],
-    "instructions": ["Soak gundruk", "Cook with soybeans and potatoes", "Add spices", "Serve with rice"],
+    "ingredients": [
+      "Gundruk",
+      "Soybeans",
+      "Potatoes",
+      "Spices",
+      "Oil"
+    ],
+    "instructions": [
+      "Soak gundruk",
+      "Cook with soybeans and potatoes",
+      "Add spices",
+      "Serve with rice"
+    ],
     "cookTime": 40,
     "servings": 4,
     "difficulty": "Medium",
@@ -329,8 +611,19 @@
     "name": "Kalejo Fry",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
     "description": "Spicy fried buffalo liver",
-    "ingredients": ["Buffalo liver", "Chili powder", "Garlic", "Oil", "Spices"],
-    "instructions": ["Cut liver into pieces", "Mix with spices", "Fry in hot oil", "Serve hot"],
+    "ingredients": [
+      "Buffalo liver",
+      "Chili powder",
+      "Garlic",
+      "Oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Cut liver into pieces",
+      "Mix with spices",
+      "Fry in hot oil",
+      "Serve hot"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Easy",
@@ -342,8 +635,19 @@
     "name": "Phokso Fry",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
     "description": "Spicy fried buffalo lungs",
-    "ingredients": ["Buffalo lungs", "Chili powder", "Garlic", "Oil", "Spices"],
-    "instructions": ["Cut lungs into pieces", "Mix with spices", "Fry in hot oil", "Serve hot"],
+    "ingredients": [
+      "Buffalo lungs",
+      "Chili powder",
+      "Garlic",
+      "Oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Cut lungs into pieces",
+      "Mix with spices",
+      "Fry in hot oil",
+      "Serve hot"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Easy",
@@ -355,8 +659,19 @@
     "name": "Bhutan Fry",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
     "description": "Spicy fried buffalo intestines",
-    "ingredients": ["Buffalo intestines", "Chili powder", "Garlic", "Oil", "Spices"],
-    "instructions": ["Clean intestines", "Mix with spices", "Fry in hot oil", "Serve hot"],
+    "ingredients": [
+      "Buffalo intestines",
+      "Chili powder",
+      "Garlic",
+      "Oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Clean intestines",
+      "Mix with spices",
+      "Fry in hot oil",
+      "Serve hot"
+    ],
     "cookTime": 25,
     "servings": 3,
     "difficulty": "Medium",
@@ -368,8 +683,16 @@
     "name": "Aila",
     "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
     "description": "Traditional Newari alcoholic beverage",
-    "ingredients": ["Rice", "Yeast", "Water"],
-    "instructions": ["Ferment rice with yeast", "Distill into liquor", "Serve in small glasses"],
+    "ingredients": [
+      "Rice",
+      "Yeast",
+      "Water"
+    ],
+    "instructions": [
+      "Ferment rice with yeast",
+      "Distill into liquor",
+      "Serve in small glasses"
+    ],
     "cookTime": 1440,
     "servings": 6,
     "difficulty": "Hard",
@@ -381,8 +704,16 @@
     "name": "Chhyang",
     "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
     "description": "Sweet and tangy rice beer",
-    "ingredients": ["Rice", "Yeast", "Water"],
-    "instructions": ["Soak and ferment rice", "Extract juice", "Serve chilled"],
+    "ingredients": [
+      "Rice",
+      "Yeast",
+      "Water"
+    ],
+    "instructions": [
+      "Soak and ferment rice",
+      "Extract juice",
+      "Serve chilled"
+    ],
     "cookTime": 720,
     "servings": 6,
     "difficulty": "Hard",
@@ -394,8 +725,19 @@
     "name": "Masu Bara",
     "image": "https://www.shutterstock.com/image-photo/closeup-view-traditional-newari-food-bread-2086157452",
     "description": "Lentil pancake topped with minced meat",
-    "ingredients": ["Black lentils", "Minced buffalo", "Ginger", "Oil", "Spices"],
-    "instructions": ["Soak lentils", "Grind into paste", "Fry with meat topping", "Serve hot"],
+    "ingredients": [
+      "Black lentils",
+      "Minced buffalo",
+      "Ginger",
+      "Oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Soak lentils",
+      "Grind into paste",
+      "Fry with meat topping",
+      "Serve hot"
+    ],
     "cookTime": 25,
     "servings": 4,
     "difficulty": "Medium",
@@ -407,8 +749,20 @@
     "name": "Haku Musya",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Black soybean curry",
-    "ingredients": ["Black soybeans", "Spices", "Oil", "Onions", "Garlic"],
-    "instructions": ["Soak soybeans", "Cook with spices", "Add onions", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Black soybeans",
+      "Spices",
+      "Oil",
+      "Onions",
+      "Garlic"
+    ],
+    "instructions": [
+      "Soak soybeans",
+      "Cook with spices",
+      "Add onions",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 40,
     "servings": 4,
     "difficulty": "Medium",
@@ -420,8 +774,19 @@
     "name": "Kinema",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Fermented soybean curry",
-    "ingredients": ["Soybeans", "Spices", "Oil", "Onions", "Tomatoes"],
-    "instructions": ["Ferment soybeans", "Cook with spices", "Add onions and tomatoes", "Serve with rice"],
+    "ingredients": [
+      "Soybeans",
+      "Spices",
+      "Oil",
+      "Onions",
+      "Tomatoes"
+    ],
+    "instructions": [
+      "Ferment soybeans",
+      "Cook with spices",
+      "Add onions and tomatoes",
+      "Serve with rice"
+    ],
     "cookTime": 1440,
     "servings": 4,
     "difficulty": "Hard",
@@ -433,8 +798,19 @@
     "name": "Pani Puri",
     "image": "https://www.freepik.com/free-photo/newari-food-photos_9576142.htm",
     "description": "Newari-style spicy stuffed puri",
-    "ingredients": ["Wheat flour", "Potatoes", "Spices", "Tamarind water", "Chickpeas"],
-    "instructions": ["Make puri dough", "Fry puris", "Prepare filling", "Serve with tamarind water"],
+    "ingredients": [
+      "Wheat flour",
+      "Potatoes",
+      "Spices",
+      "Tamarind water",
+      "Chickpeas"
+    ],
+    "instructions": [
+      "Make puri dough",
+      "Fry puris",
+      "Prepare filling",
+      "Serve with tamarind water"
+    ],
     "cookTime": 30,
     "servings": 4,
     "difficulty": "Medium",
@@ -446,8 +822,19 @@
     "name": "Alu Tama",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Potato and bamboo shoot curry",
-    "ingredients": ["Potatoes", "Bamboo shoots", "Spices", "Oil", "Onions"],
-    "instructions": ["Cook bamboo shoots", "Sauté with potatoes and spices", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Potatoes",
+      "Bamboo shoots",
+      "Spices",
+      "Oil",
+      "Onions"
+    ],
+    "instructions": [
+      "Cook bamboo shoots",
+      "Sauté with potatoes and spices",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 35,
     "servings": 4,
     "difficulty": "Medium",
@@ -459,8 +846,18 @@
     "name": "Sanyakhuna",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Spicy jellied fish curry",
-    "ingredients": ["Fish", "Spices", "Mustard oil", "Garlic", "Ginger"],
-    "instructions": ["Cook fish with spices", "Cool to form jelly", "Serve cold"],
+    "ingredients": [
+      "Fish",
+      "Spices",
+      "Mustard oil",
+      "Garlic",
+      "Ginger"
+    ],
+    "instructions": [
+      "Cook fish with spices",
+      "Cool to form jelly",
+      "Serve cold"
+    ],
     "cookTime": 60,
     "servings": 3,
     "difficulty": "Hard",
@@ -472,8 +869,18 @@
     "name": "Kachila",
     "image": "https://www.gettyimages.com/detail/photo/close-up-of-choila-traditional-nepali-newari-dish-royalty-free-image/2153996947",
     "description": "Raw minced buffalo meat with spices",
-    "ingredients": ["Buffalo meat", "Mustard oil", "Chili powder", "Garlic", "Ginger"],
-    "instructions": ["Mince meat finely", "Mix with spices and oil", "Serve raw"],
+    "ingredients": [
+      "Buffalo meat",
+      "Mustard oil",
+      "Chili powder",
+      "Garlic",
+      "Ginger"
+    ],
+    "instructions": [
+      "Mince meat finely",
+      "Mix with spices and oil",
+      "Serve raw"
+    ],
     "cookTime": 15,
     "servings": 3,
     "difficulty": "Easy",
@@ -485,8 +892,20 @@
     "name": "Pau Kwa",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-nepali-famous-dish-2086157455",
     "description": "Spicy tripe curry",
-    "ingredients": ["Buffalo tripe", "Spices", "Oil", "Onions", "Tomatoes"],
-    "instructions": ["Clean tripe", "Cook with spices", "Add onions and tomatoes", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Buffalo tripe",
+      "Spices",
+      "Oil",
+      "Onions",
+      "Tomatoes"
+    ],
+    "instructions": [
+      "Clean tripe",
+      "Cook with spices",
+      "Add onions and tomatoes",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 50,
     "servings": 4,
     "difficulty": "Medium",
@@ -498,8 +917,20 @@
     "name": "Sukula",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Dried fish curry",
-    "ingredients": ["Dried fish", "Spices", "Oil", "Onions", "Garlic"],
-    "instructions": ["Soak dried fish", "Cook with spices", "Add onions", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Dried fish",
+      "Spices",
+      "Oil",
+      "Onions",
+      "Garlic"
+    ],
+    "instructions": [
+      "Soak dried fish",
+      "Cook with spices",
+      "Add onions",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 40,
     "servings": 4,
     "difficulty": "Medium",
@@ -511,8 +942,16 @@
     "name": "Thwon",
     "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
     "description": "Newari rice wine, sweet and sour",
-    "ingredients": ["Rice", "Yeast", "Water"],
-    "instructions": ["Ferment rice with yeast", "Cook and strain", "Serve in pots"],
+    "ingredients": [
+      "Rice",
+      "Yeast",
+      "Water"
+    ],
+    "instructions": [
+      "Ferment rice with yeast",
+      "Cook and strain",
+      "Serve in pots"
+    ],
     "cookTime": 1440,
     "servings": 6,
     "difficulty": "Hard",
@@ -524,8 +963,19 @@
     "name": "Haku Chhoila",
     "image": "https://www.gettyimages.com/detail/photo/close-up-of-choila-traditional-nepali-newari-dish-royalty-free-image/2153996947",
     "description": "Smoked buffalo meat with spices",
-    "ingredients": ["Buffalo meat", "Mustard oil", "Chili powder", "Garlic", "Ginger"],
-    "instructions": ["Smoke meat", "Cut into pieces", "Mix with spices", "Serve with beaten rice"],
+    "ingredients": [
+      "Buffalo meat",
+      "Mustard oil",
+      "Chili powder",
+      "Garlic",
+      "Ginger"
+    ],
+    "instructions": [
+      "Smoke meat",
+      "Cut into pieces",
+      "Mix with spices",
+      "Serve with beaten rice"
+    ],
     "cookTime": 35,
     "servings": 4,
     "difficulty": "Medium",
@@ -537,8 +987,16 @@
     "name": "Baji",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Flattened rice, a staple in Newari cuisine",
-    "ingredients": ["Beaten rice", "Mustard oil", "Spices"],
-    "instructions": ["Soak beaten rice", "Mix with spices and oil", "Serve with chhoila"],
+    "ingredients": [
+      "Beaten rice",
+      "Mustard oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Soak beaten rice",
+      "Mix with spices and oil",
+      "Serve with chhoila"
+    ],
     "cookTime": 10,
     "servings": 4,
     "difficulty": "Easy",
@@ -550,8 +1008,19 @@
     "name": "Saag",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Spicy spinach curry",
-    "ingredients": ["Spinach", "Spices", "Oil", "Garlic", "Onions"],
-    "instructions": ["Sauté spinach with spices", "Add garlic and onions", "Cook until tender", "Serve with rice"],
+    "ingredients": [
+      "Spinach",
+      "Spices",
+      "Oil",
+      "Garlic",
+      "Onions"
+    ],
+    "instructions": [
+      "Sauté spinach with spices",
+      "Add garlic and onions",
+      "Cook until tender",
+      "Serve with rice"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Easy",
@@ -563,8 +1032,20 @@
     "name": "Momo",
     "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
     "description": "Newari-style steamed dumplings",
-    "ingredients": ["Flour", "Buffalo meat", "Spices", "Onions", "Garlic"],
-    "instructions": ["Make dough", "Prepare filling", "Shape dumplings", "Steam", "Serve with chutney"],
+    "ingredients": [
+      "Flour",
+      "Buffalo meat",
+      "Spices",
+      "Onions",
+      "Garlic"
+    ],
+    "instructions": [
+      "Make dough",
+      "Prepare filling",
+      "Shape dumplings",
+      "Steam",
+      "Serve with chutney"
+    ],
     "cookTime": 40,
     "servings": 4,
     "difficulty": "Hard",
@@ -576,8 +1057,17 @@
     "name": "Kerau Ko Achar",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Spicy green pea pickle",
-    "ingredients": ["Green peas", "Chili powder", "Mustard oil", "Spices"],
-    "instructions": ["Boil peas", "Mix with spices and oil", "Serve as condiment"],
+    "ingredients": [
+      "Green peas",
+      "Chili powder",
+      "Mustard oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Boil peas",
+      "Mix with spices and oil",
+      "Serve as condiment"
+    ],
     "cookTime": 15,
     "servings": 4,
     "difficulty": "Easy",
@@ -589,8 +1079,20 @@
     "name": "Rajma Ko Tarkari",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Kidney bean curry",
-    "ingredients": ["Kidney beans", "Spices", "Oil", "Onions", "Tomatoes"],
-    "instructions": ["Soak beans", "Cook with spices", "Add onions and tomatoes", "Simmer", "Serve with rice"],
+    "ingredients": [
+      "Kidney beans",
+      "Spices",
+      "Oil",
+      "Onions",
+      "Tomatoes"
+    ],
+    "instructions": [
+      "Soak beans",
+      "Cook with spices",
+      "Add onions and tomatoes",
+      "Simmer",
+      "Serve with rice"
+    ],
     "cookTime": 50,
     "servings": 4,
     "difficulty": "Medium",
@@ -602,8 +1104,17 @@
     "name": "Alu Tareko",
     "image": "https://www.shutterstock.com/image-photo/newari-khaja-set-typical-nepali-thali-2086157449",
     "description": "Spicy fried potatoes",
-    "ingredients": ["Potatoes", "Chili powder", "Mustard oil", "Spices"],
-    "instructions": ["Cut potatoes", "Fry with spices", "Serve hot"],
+    "ingredients": [
+      "Potatoes",
+      "Chili powder",
+      "Mustard oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Cut potatoes",
+      "Fry with spices",
+      "Serve hot"
+    ],
     "cookTime": 20,
     "servings": 3,
     "difficulty": "Easy",
@@ -615,8 +1126,18 @@
     "name": "Sanan",
     "image": "https://www.istockphoto.com/photo/newari-food-gm1282315648-380068532",
     "description": "Spicy vegetable pickle",
-    "ingredients": ["Mixed vegetables", "Chili powder", "Mustard oil", "Spices"],
-    "instructions": ["Chop vegetables", "Mix with spices and oil", "Store in jar", "Serve as condiment"],
+    "ingredients": [
+      "Mixed vegetables",
+      "Chili powder",
+      "Mustard oil",
+      "Spices"
+    ],
+    "instructions": [
+      "Chop vegetables",
+      "Mix with spices and oil",
+      "Store in jar",
+      "Serve as condiment"
+    ],
     "cookTime": 15,
     "servings": 4,
     "difficulty": "Easy",
@@ -628,8 +1149,19 @@
     "name": "Chicken Kwati",
     "image": "https://www.istockphoto.com/photo/a-bowl-filled-with-nutritious-mixed-beans-soup-kwati-for-janai-gm1153919430-313614678",
     "description": "Bean soup with chicken",
-    "ingredients": ["Mixed beans", "Chicken", "Spices", "Onions", "Garlic"],
-    "instructions": ["Soak beans", "Cook with chicken and spices", "Simmer until thick", "Serve hot"],
+    "ingredients": [
+      "Mixed beans",
+      "Chicken",
+      "Spices",
+      "Onions",
+      "Garlic"
+    ],
+    "instructions": [
+      "Soak beans",
+      "Cook with chicken and spices",
+      "Simmer until thick",
+      "Serve hot"
+    ],
     "cookTime": 60,
     "servings": 6,
     "difficulty": "Medium",
@@ -641,8 +1173,19 @@
     "name": "Thukpa",
     "image": "https://www.gettyimages.com/detail/photo/newari-dishes-on-restaurant-table-royalty-free-image/1271524784",
     "description": "Newari-style noodle soup",
-    "ingredients": ["Noodles", "Buffalo meat", "Spices", "Vegetables", "Broth"],
-    "instructions": ["Cook noodles", "Prepare broth with meat and spices", "Add vegetables", "Combine and serve hot"],
+    "ingredients": [
+      "Noodles",
+      "Buffalo meat",
+      "Spices",
+      "Vegetables",
+      "Broth"
+    ],
+    "instructions": [
+      "Cook noodles",
+      "Prepare broth with meat and spices",
+      "Add vegetables",
+      "Combine and serve hot"
+    ],
     "cookTime": 35,
     "servings": 4,
     "difficulty": "Medium",
