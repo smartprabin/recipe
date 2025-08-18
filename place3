@@ -7,7 +7,8 @@
     "importance": "Known as the Monkey Temple, it is a UNESCO World Heritage Site and a symbol of Buddhist heritage.",
     "rating": 4.8,
     "images": [
-      "https://images.pexels.com/photos/764689/pexels-photo-764689.jpeg"
+      "https://images.pexels.com/photos/764689/pexels-photo-764689.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Eye_of_Swoyambunath.jpg/960px-Eye_of_Swoyambunath.jpg"
     ],
     "location": {
       "lat": 27.715,
@@ -32,7 +33,8 @@
     "importance": "A major pilgrimage site for Hindus worldwide and a UNESCO World Heritage Site.",
     "rating": 4.9,
     "images": [
-      "https://images.pexels.com/photos/19564307/pexels-photo-19564307.jpeg"
+      "https://images.pexels.com/photos/19564307/pexels-photo-19564307.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Pashupatinath_Temple-2020.jpg/500px-Pashupatinath_Temple-2020.jpg"
     ],
     "location": {
       "lat": 27.7105,
@@ -57,7 +59,8 @@
     "importance": "A UNESCO World Heritage Site and a center for meditation and Tibetan culture.",
     "rating": 4.8,
     "images": [
-      "https://images.pexels.com/photos/2408666/pexels-photo-2408666.jpeg"
+      "https://images.pexels.com/photos/2408666/pexels-photo-2408666.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg/500px-Boudhanath_stupa_%2C_Kathmandu%2C_Nepal.jpg"
     ],
     "location": {
       "lat": 27.7215,
@@ -80,9 +83,10 @@
     "description": "A scenic lake in Pokhara with the Tal Barahi Temple situated on an island in the center.",
     "history": "A natural freshwater lake, revered for centuries and central to Pokhara's tourism.",
     "importance": "Famous for boating, reflection of Annapurna mountains, and cultural significance.",
-    "rating": 4.7,
+    "rating": 4.9,
     "images": [
-      "https://images.pexels.com/photos/14989384/pexels-photo-14989384.jpeg"
+      "https://images.pexels.com/photos/14989384/pexels-photo-14989384.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Phewa_lake%2C_Pokhara.jpg/960px-Phewa_lake%2C_Pokhara.jpg"
     ],
     "location": {
       "lat": 28.2116,
@@ -107,7 +111,8 @@
     "importance": "A premier destination for wildlife safaris and eco-tourism in Nepal.",
     "rating": 4.6,
     "images": [
-      "https://images.pexels.com/photos/32505978/pexels-photo-32505978.jpeg"
+      "https://images.pexels.com/photos/32505978/pexels-photo-32505978.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Chitwan_swamp.jpg/960px-Chitwan_swamp.jpg"
     ],
     "location": {
       "lat": 27.5291,
@@ -132,7 +137,8 @@
     "importance": "A UNESCO World Heritage Site and one of the holiest places for Buddhists worldwide.",
     "rating": 4.9,
     "images": [
-      "https://images.pexels.com/photos/7331531/pexels-photo-7331531.jpeg"
+      "https://images.pexels.com/photos/7331531/pexels-photo-7331531.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/BRP_Lumbini_Mayadevi_temple.jpg/500px-BRP_Lumbini_Mayadevi_temple.jpg"
     ],
     "location": {
       "lat": 27.6799,
@@ -157,7 +163,8 @@
     "importance": "Offers breathtaking views and a glimpse into high-altitude Sherpa culture.",
     "rating": 4.8,
     "images": [
-      "https://images.pexels.com/photos/25245177/pexels-photo-25245177.jpeg"
+      "https://images.pexels.com/photos/25245177/pexels-photo-25245177.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Under_stars_and_snows.jpg/960px-Under_stars_and_snows.jpg"
     ],
     "location": {
       "lat": 28.53,
@@ -182,7 +189,9 @@
     "importance": "A UNESCO World Heritage Site showcasing Newari architecture and culture.",
     "rating": 4.7,
     "images": [
-      "https://images.pexels.com/photos/11806577/pexels-photo-11806577.jpeg"
+      "https://images.pexels.com/photos/11806577/pexels-photo-11806577.jpeg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Patan_Durbar_Square_entrance_2022.jpg/960px-Patan_Durbar_Square_entrance_2022.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Patan_Durbar_Square_002.jpg/960px-Patan_Durbar_Square_002.jpg"
     ],
     "location": {
       "lat": 27.6783,
@@ -207,7 +216,9 @@
     "importance": "A key pilgrimage site known for its 108 water spouts and eternal flame.",
     "rating": 4.8,
     "images": [
-      "https://images.unsplash.com/photo-placeholder-muktinath?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Muktinath-temple-nepal.jpg/960px-Muktinath-temple-nepal.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/The_Muktinath_Temple.jpg/500px-The_Muktinath_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Inbound4822038242440480981.jpg/960px-Inbound4822038242440480981.jpg"
     ],
     "location": {
       "lat": 28.8167,
@@ -232,7 +243,8 @@
     "importance": "Popular among trekkers and pilgrims, especially during the Janai Purnima festival.",
     "rating": 4.6,
     "images": [
-      "https://images.unsplash.com/photo-placeholder-gosaikunda?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/The_Holy_Gosainkunda_Lake_during_the_winter._%28By_Saroj_Pandey%29.jpg/960px-The_Holy_Gosainkunda_Lake_during_the_winter._%28By_Saroj_Pandey%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Gosaikunda_full_moon_festival_in_the_rain_%284934406940%29.jpg/500px-Gosaikunda_full_moon_festival_in_the_rain_%284934406940%29.jpg"
     ],
     "location": {
       "lat": 28.0824,
@@ -249,7 +261,6 @@
     "contactInfo": "N/A",
     "isFamous": true
   },
-
   {
     "id": "58",
     "name": "Changu Narayan Temple",
@@ -258,7 +269,8 @@
     "importance": "Renowned for its historical inscriptions and Newari craftsmanship, offering panoramic valley views.",
     "rating": 4.7,
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/500px-Nepal_-_Changu_Narayan_%283566057331%29.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Nepal_-_Changu_Narayan_%283566057331%29.jpg/500px-Nepal_-_Changu_Narayan_%283566057331%29.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Changu_Narayan-Chhinnamasta-10-2013-gje.jpg/500px-Changu_Narayan-Chhinnamasta-10-2013-gje.jpg"
     ],
     "location": {
       "lat": 27.7162,
@@ -283,7 +295,10 @@
     "importance": "A peaceful spot for relaxation and birdwatching, especially during migratory seasons.",
     "rating": 4.4,
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg/2880px-Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg/2880px-Photowalk_WLE_2023_in_Nepal_-_July_8_-_6.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/The_small_island_of_Taudaha_Lake%2C_kathmandu.jpg/960px-The_small_island_of_Taudaha_Lake%2C_kathmandu.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Phalacrocorax_carbo%2C_Egretta_garzetta_and_Mareca_strepera_in_Taudha_Lake.jpg/960px-Phalacrocorax_carbo%2C_Egretta_garzetta_and_Mareca_strepera_in_Taudha_Lake.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/View_of_Taudaha_Lake_Kathmandu.jpg/960px-View_of_Taudaha_Lake_Kathmandu.jpg"
     ],
     "location": {
       "lat": 27.65,
@@ -583,7 +598,8 @@
     "importance": "A favorite for trekkers seeking a challenging day hike and scenic vistas.",
     "rating": 4.5,
     "images": [
-      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kirtipur%2C_1950_-_1955.jpg/500px-Kirtipur%2C_1950_-_1955.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/View_of_Kirtipur_and_hills_and_mountains_from_Jalpa_Devi_Temple%2C_Chobhar%2C_Kathmandu.jpg/500px-View_of_Kirtipur_and_hills_and_mountains_from_Jalpa_Devi_Temple%2C_Chobhar%2C_Kathmandu.jpg"
     ],
     "location": {
       "lat": 27.6333,
@@ -683,7 +699,8 @@
     "importance": "A major pilgrimage site, especially during Haribodhini Ekadashi festival.",
     "rating": 4.6,
     "images": [
-      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Budhanilkantha_Narayan_Murti_%282023%29_-_IMG_03.jpg/500px-Budhanilkantha_Narayan_Murti_%282023%29_-_IMG_03.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Budhanilkantha_temple%2C_kathmandu_Pano.jpg/1444px-Budhanilkantha_temple%2C_kathmandu_Pano.jpg"
     ],
     "location": {
       "lat": 27.7783,
@@ -783,7 +800,9 @@
     "importance": "A UNESCO World Heritage Site showcasing Newari architecture and festivals.",
     "rating": 4.7,
     "images": [
-      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Nyatpola_%26_Bhairav_Temple.jpg/960px-Nyatpola_%26_Bhairav_Temple.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/A_view_of_the_Nyatapola_Pagoda_Temple_at_the_Bhaktapur_Durbar_Square_in_Kathmandu_Valley_in_Nepal.jpg/500px-A_view_of_the_Nyatapola_Pagoda_Temple_at_the_Bhaktapur_Durbar_Square_in_Kathmandu_Valley_in_Nepal.jpg",
+      "https://en.wikipedia.org/wiki/File:Layaku_Hiti,_Bhaktapur_IMG_3006_(18579976481).jpg"
     ],
     "location": {
       "lat": 27.6705,
@@ -908,7 +927,7 @@
     "importance": "A cultural and spiritual landmark for locals, known for its serene ambiance.",
     "rating": 4.3,
     "images": [
-      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Uma_Maheshwor_Temple%2C_%E0%A4%89%E0%A4%AE%E0%A4%BE_%E0%A4%AE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0_%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0%2C_Kirtipur%2C_Kathmandu.jpg/500px-Uma_Maheshwor_Temple%2C_%E0%A4%89%E0%A4%AE%E0%A4%BE_%E0%A4%AE%E0%A4%B9%E0%A5%87%E0%A4%B6%E0%A5%8D%E0%A4%B5%E0%A4%B0_%E0%A4%AE%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%BF%E0%A4%B0%2C_Kirtipur%2C_Kathmandu.jpg"
     ],
     "location": {
       "lat": 27.679,
@@ -933,7 +952,8 @@
     "importance": "A vibrant cultural hub for tourists and locals, part of a UNESCO site.",
     "rating": 4.5,
     "images": [
-      "https://www.istockphoto.com/photo/kathmandu-nepal-april-17-2019-a-busy-afternoon-at-a-street-in-the-tourist-district-gm1153510438-313344474"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Basantapurpalace.JPG/960px-Basantapurpalace.JPG",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Nautalle_durbar_shirshak_baniya.jpg/960px-Nautalle_durbar_shirshak_baniya.jpg"
     ],
     "location": {
       "lat": 27.7035,
@@ -983,7 +1003,8 @@
     "importance": "A central urban park for relaxation and community events.",
     "rating": 4.3,
     "images": [
-      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Sainik_Manch_Tudikhel%2C_Kathmandu-6388.jpg/500px-Sainik_Manch_Tudikhel%2C_Kathmandu-6388.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Tundikhel_Ground%2C_from_Dharahara%2C_March_2012.jpg/500px-Tundikhel_Ground%2C_from_Dharahara%2C_March_2012.jpg"
     ],
     "location": {
       "lat": 27.705,
@@ -1008,7 +1029,8 @@
     "importance": "A spiritual destination for Buddhist pilgrims and Tantric practitioners.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1600589471001-4e6b78b5f3f0?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bajrayogini_Temple_in_Sankhu_Town.jpg/250px-Bajrayogini_Temple_in_Sankhu_Town.jpg",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sankhu_Vajarayogini_and_Jogeshvara_temples13-04-2018.jpg/960px-Sankhu_Vajarayogini_and_Jogeshvara_temples13-04-2018.jpg"
     ],
     "location": {
       "lat": 27.753,
@@ -1033,7 +1055,8 @@
     "importance": "A cultural site offering hands-on pottery experiences and local crafts.",
     "rating": 4.5,
     "images": [
-      "https://images.unsplash.com/photo-1648031740182-a2dee4978eb7?w=500"
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/e9/29/86/pottery-square-a-small.jpg?w=1200&h=-1&s=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQacezWRilzZ62a2eMen6-j-1Balzxx6uMM0zr4NCs16wzlTKtE_Ti5aWMVLNrgGYAsFjs&usqp=CAU"
     ],
     "location": {
       "lat": 27.669,
@@ -1058,7 +1081,7 @@
     "importance": "A cultural and religious landmark in Bhaktapur’s Dattatreya Square.",
     "rating": 4.5,
     "images": [
-      "https://images.unsplash.com/photo-1618851142562-ff30d09313a9?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dattatreya_Temple_Tacha_Bahal_Bhaktapur_Nepal_Rajesh_Dhungana_%287%29.jpg/500px-Dattatreya_Temple_Tacha_Bahal_Bhaktapur_Nepal_Rajesh_Dhungana_%287%29.jpg"
     ],
     "location": {
       "lat": 27.673,
@@ -1208,7 +1231,7 @@
     "importance": "A spiritual and natural destination for hikers and pilgrims.",
     "rating": 4.4,
     "images": [
-      "https://images.unsplash.com/photo-1595239739730-4b6e6b2a6b3e?w=500"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Baagdwar_%282%29.jpg/500px-Baagdwar_%282%29.jpg"
     ],
     "location": {
       "lat": 27.8167,
