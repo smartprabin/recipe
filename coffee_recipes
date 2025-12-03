@@ -1,0 +1,127 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso",
+    "description": "A strong, concentrated coffee shot that's the foundation of many coffee drinks.",
+    "image": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=800",
+    "ingredients": [
+      "18-20g finely ground coffee beans",
+      "30ml hot water (90-96°C)",
+      "Espresso machine"
+    ],
+    "steps": [
+      "Grind fresh coffee beans to a fine consistency",
+      "Distribute and tamp the grounds evenly in the portafilter",
+      "Lock the portafilter into the espresso machine",
+      "Extract for 25-30 seconds to yield 30ml of espresso",
+      "Serve immediately in a pre-warmed demitasse cup"
+    ],
+    "difficulty": "Medium",
+    "prepTime": "5 min"
+  },
+  {
+    "id": "2",
+    "name": "Cappuccino",
+    "description": "A classic Italian coffee drink with equal parts espresso, steamed milk, and milk foam.",
+    "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=800",
+    "ingredients": [
+      "1 shot espresso (30ml)",
+      "60ml steamed milk",
+      "60ml milk foam",
+      "Cocoa powder (optional)"
+    ],
+    "steps": [
+      "Prepare a shot of espresso in a cappuccino cup",
+      "Steam milk to create microfoam (around 65°C)",
+      "Pour steamed milk over espresso",
+      "Spoon milk foam on top",
+      "Dust with cocoa powder if desired"
+    ],
+    "difficulty": "Medium",
+    "prepTime": "7 min"
+  },
+  {
+    "id": "3",
+    "name": "Cold Brew",
+    "description": "A smooth, less acidic coffee made by steeping grounds in cold water for hours.",
+    "image": "https://images.unsplash.com/photo-1517487881594-2787fef5ebf7?w=800",
+    "ingredients": [
+      "100g coarsely ground coffee",
+      "1 liter cold filtered water",
+      "Large jar or pitcher",
+      "Fine mesh strainer or filter"
+    ],
+    "steps": [
+      "Combine coarse coffee grounds with cold water in a jar",
+      "Stir gently to ensure all grounds are saturated",
+      "Cover and refrigerate for 12-24 hours",
+      "Strain the mixture through a fine mesh filter",
+      "Dilute with water or milk to taste and serve over ice"
+    ],
+    "difficulty": "Easy",
+    "prepTime": "12-24 hours"
+  },
+  {
+    "id": "4",
+    "name": "Latte",
+    "description": "A smooth coffee drink with espresso and plenty of steamed milk, topped with a thin layer of foam.",
+    "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?w=800",
+    "ingredients": [
+      "2 shots espresso (60ml)",
+      "240ml steamed milk",
+      "Small amount of milk foam",
+      "Optional: flavored syrup"
+    ],
+    "steps": [
+      "Pull two shots of espresso into a large cup",
+      "Add flavored syrup if using",
+      "Steam milk to create smooth microfoam",
+      "Pour steamed milk over espresso in a circular motion",
+      "Top with a thin layer of foam and create latte art if desired"
+    ],
+    "difficulty": "Medium",
+    "prepTime": "6 min"
+  },
+  {
+    "id": "5",
+    "name": "French Press",
+    "description": "A full-bodied coffee made by steeping coarse grounds in hot water, then pressing.",
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800",
+    "ingredients": [
+      "60g coarsely ground coffee",
+      "900ml hot water (93-96°C)",
+      "French press"
+    ],
+    "steps": [
+      "Add coarse coffee grounds to the French press",
+      "Pour hot water over grounds, ensuring all are saturated",
+      "Stir gently and place the lid on (plunger up)",
+      "Let steep for 4 minutes",
+      "Slowly press the plunger down and serve immediately"
+    ],
+    "difficulty": "Easy",
+    "prepTime": "8 min"
+  },
+  {
+    "id": "6",
+    "name": "Mocha",
+    "description": "A chocolate-flavored variant of a latte, combining espresso, steamed milk, and chocolate.",
+    "image": "https://images.unsplash.com/photo-1607260550778-aa9d29444ce1?w=800",
+    "ingredients": [
+      "2 shots espresso (60ml)",
+      "30ml chocolate syrup or 2 tbsp cocoa powder",
+      "240ml steamed milk",
+      "Whipped cream",
+      "Chocolate shavings"
+    ],
+    "steps": [
+      "Mix chocolate syrup or cocoa powder with hot espresso",
+      "Stir until chocolate is fully dissolved",
+      "Pour in steamed milk while stirring",
+      "Top with whipped cream",
+      "Garnish with chocolate shavings"
+    ],
+    "difficulty": "Easy",
+    "prepTime": "7 min"
+  }
+]
