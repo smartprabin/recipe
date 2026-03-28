@@ -1,0 +1,51 @@
+[
+  {
+    "id": "17",
+    "name": "Gosaikunda Lake",
+    "description": "A high-altitude alpine lake revered as a holy site, surrounded by rugged peaks.",
+    "history": "Associated with Lord Shiva, it has been a pilgrimage site for centuries.",
+    "importance": "Popular among trekkers and pilgrims.",
+    "rating": 4.6,
+    "images": [
+      "https://picsum.photos/id/1015/800/600",
+      "https://picsum.photos/id/1016/800/600"
+    ],
+    "location": {
+      "lat": 28.0824,
+      "lng": 85.4146
+    },
+    "category": "Natural",
+    "tags": [
+      "Lake",
+      "Trekking",
+      "Pilgrimage"
+    ],
+    "openingHours": "Open 24 hours",
+    "contactInfo": "N/A",
+    "isFamous": true
+  },
+  {
+    "id": "18",
+    "name": "Pashupatinath Temple",
+    "description": "One of the most sacred Hindu temples dedicated to Lord Shiva.",
+    "history": "Dates back to 400 AD. Major cremation ground on the banks of Bagmati River.",
+    "importance": "UNESCO World Heritage Site.",
+    "rating": 4.9,
+    "images": [
+      "https://picsum.photos/id/201/800/600"
+    ],
+    "location": {
+      "lat": 27.7105,
+      "lng": 85.3464
+    },
+    "category": "Religious",
+    "tags": [
+      "Temple",
+      "UNESCO",
+      "Hindu"
+    ],
+    "openingHours": "4:00 AM - 8:00 PM",
+    "contactInfo": "+977-1-447-1234",
+    "isFamous": true
+  }
+]
