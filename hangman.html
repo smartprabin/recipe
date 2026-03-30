@@ -1,0 +1,412 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Privacy Policy — KidsLearning</title>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Quicksand:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+          --sky: #e8f4fd;
+          --blue: #3b82f6;
+          --blue-dark: #1d4ed8;
+          --teal: #0d9488;
+          --mint: #d1fae5;
+          --yellow: #fbbf24;
+          --peach: #fde8d8;
+          --purple: #7c3aed;
+          --lavender: #ede9fe;
+          --text: #1e293b;
+          --muted: #64748b;
+          --border: #e2e8f0;
+          --white: #ffffff;
+          --radius: 20px;
+        }
+
+        body {
+          font-family: 'Quicksand', sans-serif;
+          background: var(--sky);
+          color: var(--text);
+          min-height: 100vh;
+          line-height: 1.7;
+          position: relative;
+          overflow-x: hidden;
+        }
+
+        /* Decorative blobs */
+        body::before, body::after {
+          content: '';
+          position: fixed;
+          border-radius: 50%;
+          filter: blur(80px);
+          opacity: 0.18;
+          pointer-events: none;
+          z-index: 0;
+        }
+        body::before {
+          width: 520px; height: 520px;
+          background: var(--blue);
+          top: -120px; right: -120px;
+        }
+        body::after {
+          width: 420px; height: 420px;
+          background: var(--purple);
+          bottom: -100px; left: -100px;
+        }
+
+        .page-wrap {
+          position: relative;
+          z-index: 1;
+          max-width: 820px;
+          margin: 0 auto;
+          padding: 48px 24px 80px;
+        }
+
+        /* Header */
+        header {
+          text-align: center;
+          margin-bottom: 52px;
+          animation: fadeDown 0.6s ease both;
+        }
+
+        .badge {
+          display: inline-flex;
+          align-items: center;
+          gap: 8px;
+          background: var(--white);
+          border: 2px solid var(--border);
+          border-radius: 999px;
+          padding: 6px 18px;
+          font-size: 13px;
+          font-weight: 700;
+          color: var(--muted);
+          letter-spacing: 0.06em;
+          text-transform: uppercase;
+          margin-bottom: 20px;
+        }
+        .badge .dot {
+          width: 8px; height: 8px;
+          background: var(--teal);
+          border-radius: 50%;
+          display: inline-block;
+        }
+
+        h1 {
+          font-family: 'Nunito', sans-serif;
+          font-size: clamp(2.2rem, 5vw, 3.2rem);
+          font-weight: 900;
+          color: var(--text);
+          line-height: 1.15;
+          margin-bottom: 14px;
+        }
+        h1 span {
+          color: var(--blue);
+        }
+
+        .subtitle {
+          color: var(--muted);
+          font-size: 15px;
+          font-weight: 500;
+        }
+
+        /* Info pill row */
+        .meta-row {
+          display: flex;
+          flex-wrap: wrap;
+          gap: 10px;
+          justify-content: center;
+          margin-top: 24px;
+        }
+        .pill {
+          background: var(--white);
+          border-radius: 999px;
+          padding: 6px 16px;
+          font-size: 13px;
+          font-weight: 600;
+          color: var(--text);
+          border: 1.5px solid var(--border);
+          display: flex;
+          align-items: center;
+          gap: 6px;
+        }
+        .pill .icon { font-size: 14px; }
+
+        /* Cards */
+        .card {
+          background: var(--white);
+          border-radius: var(--radius);
+          border: 1.5px solid var(--border);
+          padding: 32px 36px;
+          margin-bottom: 20px;
+          box-shadow: 0 2px 12px rgba(0,0,0,0.05);
+          animation: fadeUp 0.5s ease both;
+        }
+        .card:nth-child(1) { animation-delay: 0.05s; }
+        .card:nth-child(2) { animation-delay: 0.10s; }
+        .card:nth-child(3) { animation-delay: 0.15s; }
+        .card:nth-child(4) { animation-delay: 0.20s; }
+        .card:nth-child(5) { animation-delay: 0.25s; }
+        .card:nth-child(6) { animation-delay: 0.30s; }
+        .card:nth-child(7) { animation-delay: 0.35s; }
+        .card:nth-child(8) { animation-delay: 0.40s; }
+        .card:nth-child(9) { animation-delay: 0.45s; }
+
+        .card-header {
+          display: flex;
+          align-items: center;
+          gap: 14px;
+          margin-bottom: 18px;
+        }
+        .card-icon {
+          width: 44px; height: 44px;
+          border-radius: 12px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          font-size: 22px;
+          flex-shrink: 0;
+        }
+
+        h2 {
+          font-family: 'Nunito', sans-serif;
+          font-size: 1.2rem;
+          font-weight: 800;
+          color: var(--text);
+        }
+
+        p {
+          font-size: 15px;
+          color: var(--muted);
+          margin-bottom: 12px;
+        }
+        p:last-child { margin-bottom: 0; }
+
+        ul {
+          list-style: none;
+          padding: 0;
+          margin: 10px 0;
+          display: flex;
+          flex-direction: column;
+          gap: 8px;
+        }
+        ul li {
+          display: flex;
+          align-items: flex-start;
+          gap: 10px;
+          font-size: 15px;
+          color: var(--muted);
+        }
+        ul li::before {
+          content: '✦';
+          color: var(--blue);
+          font-size: 11px;
+          margin-top: 4px;
+          flex-shrink: 0;
+        }
+
+        /* Accent card colors */
+        .accent-blue .card-icon { background: #dbeafe; }
+        .accent-teal .card-icon { background: var(--mint); }
+        .accent-yellow .card-icon { background: #fef9c3; }
+        .accent-purple .card-icon { background: var(--lavender); }
+        .accent-peach .card-icon { background: var(--peach); }
+        .accent-red .card-icon { background: #fee2e2; }
+        .accent-green .card-icon { background: #dcfce7; }
+
+        /* Highlight box */
+        .highlight {
+          background: linear-gradient(135deg, #eff6ff, #f0fdf4);
+          border: 1.5px solid #bfdbfe;
+          border-radius: 12px;
+          padding: 14px 18px;
+          margin-top: 14px;
+          font-size: 14px;
+          color: var(--blue-dark);
+          font-weight: 600;
+          display: flex;
+          align-items: center;
+          gap: 8px;
+        }
+
+        /* Children notice card */
+        .children-card {
+          background: linear-gradient(135deg, #fef3c7, #fde8d8);
+          border-color: #fcd34d;
+        }
+        .children-card h2 { color: #92400e; }
+        .children-card p, .children-card li { color: #78350f; }
+        .children-card ul li::before { color: #f59e0b; }
+
+        /* Contact card */
+        .contact-card {
+          background: linear-gradient(135deg, #ede9fe, #dbeafe);
+          border-color: #c4b5fd;
+          text-align: center;
+        }
+        .contact-card .card-header { justify-content: center; }
+        .contact-card p { color: #4c1d95; }
+        .email-link {
+          display: inline-block;
+          margin-top: 12px;
+          background: var(--purple);
+          color: var(--white);
+          text-decoration: none;
+          border-radius: 999px;
+          padding: 10px 28px;
+          font-size: 14px;
+          font-weight: 700;
+          letter-spacing: 0.02em;
+          transition: background 0.2s, transform 0.15s;
+          box-shadow: 0 4px 14px rgba(124,58,237,0.25);
+        }
+        .email-link:hover {
+          background: var(--blue-dark);
+          transform: translateY(-2px);
+        }
+
+        /* External link */
+        a.ext {
+          color: var(--blue);
+          font-weight: 600;
+          text-decoration: none;
+          border-bottom: 1.5px solid #bfdbfe;
+          transition: color 0.2s;
+        }
+        a.ext:hover { color: var(--blue-dark); }
+
+        /* Footer */
+        footer {
+          text-align: center;
+          margin-top: 48px;
+          font-size: 13px;
+          color: #94a3b8;
+          font-weight: 500;
+        }
+        footer strong { color: var(--muted); }
+
+        @keyframes fadeDown {
+          from { opacity: 0; transform: translateY(-24px); }
+          to   { opacity: 1; transform: translateY(0); }
+        }
+        @keyframes fadeUp {
+          from { opacity: 0; transform: translateY(20px); }
+          to   { opacity: 1; transform: translateY(0); }
+        }
+
+        @media (max-width: 540px) {
+          .card { padding: 24px 20px; }
+          .page-wrap { padding: 32px 16px 60px; }
+        }
+    </style>
+</head>
+<body>
+<div class="page-wrap">
+
+    <header>
+        <h1>Privacy Policy<br><span>Hangman</span></h1>
+        <p class="subtitle">How we collect, use, and protect your information</p>
+        <div class="meta-row">
+            <div class="pill"><span class="icon">📱</span> Mobile Application</div>
+        </div>
+    </header>
+
+    <!-- Information Collection -->
+    <div class="card accent-blue">
+        <div class="card-header">
+            <div class="card-icon">📊</div>
+            <h2>Information Collection &amp; Use</h2>
+        </div>
+        <p>The Application collects information when you download and use it. This may include:</p>
+        <ul>
+            <li>Your device's Internet Protocol (IP) address</li>
+            <li>Pages visited within the Application, along with the time and date of your visit</li>
+            <li>Time spent on each page and in the Application overall</li>
+            <li>The operating system used on your mobile device</li>
+        </ul>
+        <p>The Application does <strong>not</strong> gather precise location data from your mobile device.</p>
+        <p>The Service Provider may use your information to contact you with important notices, updates, and marketing promotions. For a better experience, we may request certain personally identifiable information, which will be retained and used as described in this policy.</p>
+    </div>
+
+    <!-- Third Party Access -->
+    <div class="card accent-teal">
+        <div class="card-header">
+            <div class="card-icon">🔗</div>
+            <h2>Third Party Access</h2>
+        </div>
+        <p>Only aggregated, anonymized data is periodically transmitted to external services to help improve the Application. The Service Provider may share your information with third parties as described in this statement.</p>
+        <p>The Application uses third-party services with their own privacy policies. Please review:</p>
+        <ul>
+            <li><a class="ext" href="https://support.google.com/admob/answer/6128543" target="_blank" rel="noopener">AdMob Privacy Policy ↗</a></li>
+        </ul>
+        <p>Information may also be disclosed:</p>
+        <ul>
+            <li>As required by law, such as to comply with a subpoena or similar legal process</li>
+            <li>When necessary to protect rights, safety, investigate fraud, or respond to a government request</li>
+            <li>With trusted service providers who work on our behalf and have agreed to adhere to this privacy statement</li>
+        </ul>
+    </div>
+
+
+    <!-- Children -->
+    <div class="card children-card">
+        <div class="card-header">
+            <div class="card-icon" style="background:#fef3c7;">👶</div>
+            <h2>Children's Privacy</h2>
+        </div>
+        <p>The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.</p>
+        <p>If we discover that a child under 13 has provided personal information, it will be immediately deleted from our servers.</p>
+        <ul>
+            <li>The Application does not address anyone under the age of 13</li>
+            <li>We do not knowingly collect personally identifiable information from children under 13</li>
+        </ul>
+        <p>If you are a parent or guardian and believe your child has provided personal information, please contact us immediately at <a class="ext" href="mailto:khowpatech@gmail.com" style="color:#92400e;">khowpatech@gmail.com</a>.</p>
+    </div>
+
+    <!-- Security -->
+    <div class="card accent-green">
+        <div class="card-header">
+            <div class="card-icon">🔒</div>
+            <h2>Security</h2>
+        </div>
+        <p>The Service Provider is concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain.</p>
+    </div>
+
+    <!-- Changes -->
+    <div class="card accent-purple">
+        <div class="card-header">
+            <div class="card-icon">🔄</div>
+            <h2>Changes to This Policy</h2>
+        </div>
+        <p>This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes by updating this page with the new Privacy Policy.</p>
+        <p>You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.</p>
+    </div>
+
+    <!-- Consent -->
+    <div class="card accent-blue">
+        <div class="card-header">
+            <div class="card-icon">✅</div>
+            <h2>Your Consent</h2>
+        </div>
+        <p>By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.</p>
+    </div>
+
+    <!-- Contact -->
+    <div class="card contact-card">
+        <div class="card-header">
+            <div class="card-icon" style="background:rgba(255,255,255,0.6);">✉️</div>
+            <h2 style="color:#4c1d95;">Contact Us</h2>
+        </div>
+        <p>If you have any questions regarding privacy while using the Application, or have questions about our practices, please reach out.</p>
+        <a class="email-link" href="mailto:khowpatech@gmail.com">khowpatech@gmail.com</a>
+    </div>
+
+    <footer>
+        <p>. &copy; Hangman — All rights reserved.</p>
+    </footer>
+
+</div>
+</body>
+</html>
